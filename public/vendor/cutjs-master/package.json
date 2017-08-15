@@ -1,0 +1,33 @@
+{
+  "name": "cutjs",
+  "version": "0.2.2",
+  "description": "Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development.",
+  "homepage": "http://cutjs.org/",
+  "keywords": [
+    "html5",
+    "game",
+    "rendering",
+    "engine",
+    "2d",
+    "canvas",
+    "mobile"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piqnt/cutjs.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "*",
+    "darwin": "*",
+     "minimist": "*",
+    "gulp": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-wrap": "*",
+    "gulp-bump": "*",
+    "gulp-mocha": "*",
+    "should": "*"
+  }
+}

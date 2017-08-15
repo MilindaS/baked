@@ -1,0 +1,4 @@
+appliication/config/*
+public/uploads
+public/profPics
+.htaccess

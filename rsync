@@ -1,0 +1,1 @@
+rsync -avz --exclude-from '/home/milinda/Projects/stat/exclude-list.txt' /home/milinda/Projects/stat/ milinda@10.2.16.50:/home/milinda/Projects/statistics
