@@ -1,6 +1,6 @@
 <div class="login-box ">
   <div class="login-logo">
-    <a href="#" style="color:#FFF;"><i class="glyphicon glyphicon-fire" style="color:#607F8D;font-size:26px;"></i>&nbsp;&nbsp;<b>Customs </b>Statistics</a>
+    <a href="#" style="color:#FFF;"><i class="glyphicon glyphicon-fire" style="color:#607F8D;font-size:26px;"></i>&nbsp;&nbsp;<b>Hendricks </b>Dashboard</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body" style="background:rgba(0,0,0,0.3);box-shadow:0px -2px 10px 1px rgba(0,0,0,0.3) inset;border-bottom:1px solid rgba(255,255,255,0.3);">
@@ -53,7 +53,7 @@
                   if(data.data[0].authority==9){
                      window.location = '<?php echo BASEURL;?>ocdb/repgen';
                   }else{
-                        window.location = '<?php echo BASEURL;?>dash/home';
+                        window.location = '<?php echo BASEURL;?>invoices/home';
                   }
                   
                   }else{

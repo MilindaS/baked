@@ -498,14 +498,8 @@ table.dataTable tbody tr.selected {
   pointer-events: auto;
 }
 .creativeAddRecordModal .modal-content{
-    background: -moz-linear-gradient(45deg, rgba(38,66,103,1) 0%, rgba(88,51,68,1) 100%); /* ff3.6+ */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(38,66,103,1)), color-stop(100%, rgba(88,51,68,1))); /* safari4+,chrome */
-    background: -webkit-linear-gradient(45deg, rgba(38,66,103,1) 0%, rgba(88,51,68,1) 100%); /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(45deg, rgba(38,66,103,1) 0%, rgba(88,51,68,1) 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(45deg, rgba(38,66,103,1) 0%, rgba(88,51,68,1) 100%); /* ie10+ */
-    background: linear-gradient(45deg, rgba(38,66,103,1) 0%, rgba(88,51,68,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#583344', endColorstr='#264267',GradientType=1 ); /* ie6-9 */
-  color:#CCC;
+  background: #FFF;
+  color:#333;
   
 }
 
@@ -519,26 +513,26 @@ table.dataTable tbody tr.selected {
 }
 
 .creativeAddRecordModal  .modal-footer {
-  border-top: 1px solid #8595E0;
+  border-top: 1px solid #2A7EA8;
+  background: #2A7EA8;
 }
 
 .creativeAddRecordModal input{
-  background:#212436;
-  border:none;color:#DDD;
+  background:#EFEFEF;
+  border:1px solid #DDD;color:#333;
 }
 
 
 .creativeAddRecordModal .form-control {
-  background:#212436;
-  border:none;color:#DDD;
-  border-bottom:1px solid #524564;
-  border-right:1px solid #524564;
-  box-shadow:1px 1px 1px 1px rgba(0,0,0,0.4) inset;
+  background:#EFEFEF;
+  color:#333;
+  border:1px solid #DDD;
+  /*border-right:1px solid #524564;*/
+  /*box-shadow:1px 1px 1px 1px rgba(0,0,0,0.4) inset;*/
 }
 
 .creativeAddRecordModal label{
-  text-shadow:0px 1px 1px black;
-  color:#DDD;
+  color:#333;font-weight: normal;
 
 }
 
@@ -552,7 +546,11 @@ table.dataTable tbody tr.selected {
 */
 
 .creativeAddRecordModal  .modal-body{
-  background: rgba(0,0,0,0.3);
+  /*background: rgba(0,0,0,0.3);*/
+}
+
+.creativeAddRecordModal .modal-header{
+  background: #2A7EA8;
 }
 
 
@@ -1238,3 +1236,4 @@ h1,.panel-heading,.dataTables_length{
     left: -190px;
     right: 0;
 }
+

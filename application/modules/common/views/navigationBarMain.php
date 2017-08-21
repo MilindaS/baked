@@ -18,9 +18,14 @@ $user_details = Modules::run('user/getUser',$loggedinuser['id']);
       
       <ul class="sidebar-menu">
         <li class="header">MAIN NAVIGATION</li>
-        <li <?php if($url[0]=="dash"){echo 'class="active"';} ?> >
-          <a href="/dash/home">
+        <li <?php if($url[0]=="invoices"){echo 'class="active"';} ?> >
+          <a href="/invoices/home">
             <i class="fa fa-dashboard"></i> <span>Dashboard</span> 
+          </a>
+        </li>
+        <li <?php if($url[0]=="users"){echo 'class="active"';} ?> >
+          <a href="/users/home">
+            <i class="fa fa-user"></i> <span>Users</span> 
           </a>
         </li>
       </ul>
