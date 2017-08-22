@@ -8,12 +8,12 @@
 
       <section class="content-header">
         <h1>
-          Payment Tracker
+          Users
           <small>Table view</small>
         </h1>
         <ol class="breadcrumb">
           <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-          <li class="active">Payment Tracker Table</li>
+          <li class="active">Users</li>
         </ol>
       </section>
 
@@ -33,15 +33,11 @@
                         <thead>
                             <tr>
                                 <th>ID</th>
-                                <th>Invoice Number</th>
-                                <th>Date</th>
-                                <th>Invoice Amount</th>
-                                <th>Paid Amount</th>
-                                <th>Payment Details</th>
-                                <th>Payment Date</th>
-                                <th>Payment Type</th>
-                                <th>Pending Amount</th>
-                                <th>Remarks</th>
+                                <th>Full Name</th>
+                                <th>Company</th>
+                                <th>Email</th>
+                                <th>Contact No</th>
+                                <th>Type</th>
                                 <th>Actions</th>
                             </tr>
                         </thead>
@@ -80,93 +76,69 @@
             <div class="col-md-12">
 
                   <div class="form-group">
-                    <label for="user" class="col-sm-4 control-label">User</label>
+                    <label for="fullname" class="col-sm-4 control-label">Full Name</label>
                     <div class="col-sm-8">
-                      <select class="form-control" name="user" id="user">
-                        <?php foreach (modules::run('user/getUsers') as $value): ?>
-                          
-                        <option value="1"><?php echo ($value['fullname']); ?></option>
-                        <?php endforeach ?>
-                      </select>
-                    </div>
-                  </div>
-
-                  <div class="form-group">
-                    <label for="refNo" class="col-sm-4 control-label">Invoice Number</label>
-                    <div class="col-sm-8">
-                      <input type="text" class="form-control" name="invoice_no" id="invoice_no">
+                      <input type="text" class="form-control" name="fullname" id="fullname">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="form-group">
-                    <label for="date" class="col-sm-4 control-label">Date (M/D/Y)</label>
+                    <label for="company" class="col-sm-4 control-label">Company</label>
                     <div class="col-sm-8">
-                        <div class='input-group date' id='date'>
-                            <input type='text' class="form-control" required name="date" value="<?php echo date('m/d/Y'); ?>"/>
-                            <div class="help-block with-errors"></div>
-                            <span class="input-group-addon">
-                                <span class="glyphicon glyphicon-calendar"></span>
-                            </span>
-                        </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="contactName" class="col-sm-4 control-label">Invoice Amount</label>
-                    <div class="col-sm-8">
-                      <input type="text" class="form-control" id="invoice_amount" name="invoice_amount">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="contactName" class="col-sm-4 control-label">Paid Amount</label>
-                    <div class="col-sm-8">
-                      <input type="text" class="form-control" id="paid_amount" name="paid_amount">
-                    </div>
-                  </div>
-
-                  <div class="form-group" >
-                    <label for="reportName" class="col-sm-4 control-label">Payment Details</label>
-                    <div class="col-sm-8">
-                      <textarea class="form-control" id="payment_details" name="payment_details" required ></textarea>
+                      <input type="text" class="form-control" name="company" id="company">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
                   <div class="form-group">
-                    <label for="payment_date" class="col-sm-4 control-label">Payment Date (M/D/Y)</label>
+                    <label for="phone" class="col-sm-4 control-label">Phone</label>
                     <div class="col-sm-8">
-                        <div class='input-group date' id='payment_date'>
-                            <input type='text' class="form-control" required name="payment_date" value="<?php echo date('m/d/Y'); ?>"/>
-                            <div class="help-block with-errors"></div>
-                            <span class="input-group-addon">
-                                <span class="glyphicon glyphicon-calendar"></span>
-                            </span>
-                        </div>
+                      <input type="text" class="form-control" name="phone" id="phone">
+                      <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
                   <div class="form-group">
-                    <label for="payment_type" class="col-sm-4 control-label">Payment Type</label>
+                    <label for="address" class="col-sm-4 control-label">Address</label>
                     <div class="col-sm-8">
-                      <select class="form-control" name="payment_type" id="payment_type">
-                        <option value="1">General</option>
-                        <option value="2">Monthly</option>
-                        <option value="3">Weekly</option>
+                      <input type="text" class="form-control" name="address" id="address">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+
+
+                  <div class="form-group">
+                    <label for="email" class="col-sm-4 control-label">Email</label>
+                    <div class="col-sm-8">
+                      <input type="text" class="form-control" name="email" id="email">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="type" class="col-sm-4 control-label">Type</label>
+                    <div class="col-sm-8">
+                      <select class="form-control" name="type" id="type">
+                        <option value="1">Agent</option>
+                        <option value="2">Non Agent</option>
                       </select>
                     </div>
                   </div>
 
+
                   <div class="form-group">
-                    <label for="pending_amount" class="col-sm-4 control-label">Pending Amount</label>
+                    <label for="username" class="col-sm-4 control-label">Username</label>
                     <div class="col-sm-8">
-                      <input type="text" class="form-control" id="pending_amount" name="pending_amount">
+                      <input type="text" class="form-control" name="username" id="username">
+                      <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
 
-                 <div class="form-group" >
-                    <label for="remarks" class="col-sm-4 control-label">Remarks</label>
+                  <div class="form-group">
+                    <label for="tpassword" class="col-sm-4 control-label">Temporary Password</label>
                     <div class="col-sm-8">
-                      <textarea class="form-control" id="remarks" name="remarks" required ></textarea>
+                      <input type="text" class="form-control" name="tpassword" id="tpassword">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
@@ -188,98 +160,82 @@
 
 
 
-
-
-
-
 <div class="modal fade creativeAddRecordModal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel" id="editRecordModal">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="gridSystemModalLabel">&nbsp;Modify Record</h4>
+        <h4 class="modal-title" id="gridSystemModalLabel">&nbsp;Modify the Record </h4>
       </div>
     <form class="form-horizontal" role="form" data-toggle="validator" id="myFormE" method="POST">
       <div class="modal-body">
         <div class="row">
             <div class="col-md-12">
-                  <input type="hidden" name="idE" id="idE" />
+                  <input type="hidden" class="form-control" name="idE" id="idE">
                   <div class="form-group">
-                    <label for="invoice_noE" class="col-sm-4 control-label">Invoice Number</label>
+                    <label for="fullnameE" class="col-sm-4 control-label">Full Name</label>
                     <div class="col-sm-8">
-                      <input type="text" class="form-control" name="invoice_noE" id="invoice_noE">
+                      <input type="text" class="form-control" name="fullnameE" id="fullnameE">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
                   <div class="form-group">
-                    <label for="dateE" class="col-sm-4 control-label">Date (M/D/Y)</label>
+                    <label for="companyE" class="col-sm-4 control-label">Company</label>
                     <div class="col-sm-8">
-                        <div class='input-group date' id='dateE'>
-                            <input type='text' class="form-control" required name="dateE" value="<?php echo date('m/d/Y'); ?>"/>
-                            <div class="help-block with-errors"></div>
-                            <span class="input-group-addon">
-                                <span class="glyphicon glyphicon-calendar"></span>
-                            </span>
-                        </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="invoice_amountE" class="col-sm-4 control-label">Invoice Amount</label>
-                    <div class="col-sm-8">
-                      <input type="text" class="form-control" id="invoice_amountE" name="invoice_amountE">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="paid_amountE" class="col-sm-4 control-label">Paid Amount</label>
-                    <div class="col-sm-8">
-                      <input type="text" class="form-control" id="paid_amountE" name="paid_amountE">
-                    </div>
-                  </div>
-
-                  <div class="form-group" >
-                    <label for="payment_detailsE" class="col-sm-4 control-label">Payment Details</label>
-                    <div class="col-sm-8">
-                      <textarea class="form-control" id="payment_detailsE" name="payment_detailsE" required ></textarea>
+                      <input type="text" class="form-control" name="companyE" id="companyE">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
                   <div class="form-group">
-                    <label for="payment_dateE" class="col-sm-4 control-label">Payment Date (M/D/Y)</label>
+                    <label for="phoneE" class="col-sm-4 control-label">Phone</label>
                     <div class="col-sm-8">
-                        <div class='input-group date' id='payment_dateE'>
-                            <input type='text' class="form-control" required name="payment_dateE" value="<?php echo date('m/d/Y'); ?>"/>
-                            <div class="help-block with-errors"></div>
-                            <span class="input-group-addon">
-                                <span class="glyphicon glyphicon-calendar"></span>
-                            </span>
-                        </div>
+                      <input type="text" class="form-control" name="phoneE" id="phoneE">
+                      <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
                   <div class="form-group">
-                    <label for="payment_typeE" class="col-sm-4 control-label">Payment Type</label>
+                    <label for="addressE" class="col-sm-4 control-label">Address</label>
                     <div class="col-sm-8">
-                      <select class="form-control" name="payment_typeE" id="payment_typeE">
-                        <option value="1">General</option>
-                        <option value="2">Monthly</option>
-                        <option value="3">Weekly</option>
+                      <input type="text" class="form-control" name="addressE" id="addressE">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+
+
+                  <div class="form-group">
+                    <label for="emailE" class="col-sm-4 control-label">Email</label>
+                    <div class="col-sm-8">
+                      <input type="text" class="form-control" name="emailE" id="emailE">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="typeE" class="col-sm-4 control-label">Type</label>
+                    <div class="col-sm-8">
+                      <select class="form-control" name="typeE" id="typeE">
+                        <option value="1">Agent</option>
+                        <option value="2">Non Agent</option>
                       </select>
                     </div>
                   </div>
 
+
                   <div class="form-group">
-                    <label for="pending_amountE" class="col-sm-4 control-label">Pending Amount</label>
+                    <label for="usernameE" class="col-sm-4 control-label">Username</label>
                     <div class="col-sm-8">
-                      <input type="text" class="form-control" id="pending_amountE" name="pending_amountE">
+                      <input type="text" class="form-control" name="usernameE" id="usernameE">
+                      <div class="help-block with-errors"></div>
                     </div>
                   </div>
 
 
-                 <div class="form-group" >
-                    <label for="remarksE" class="col-sm-4 control-label">Remarks</label>
+                  <div class="form-group">
+                    <label for="tpasswordE" class="col-sm-4 control-label">Temporary Password</label>
                     <div class="col-sm-8">
-                      <textarea class="form-control" id="remarksE" name="remarksE" required ></textarea>
+                      <input type="text" class="form-control" name="tpasswordE" id="tpasswordE">
                       <div class="help-block with-errors"></div>
                     </div>
                   </div>
@@ -287,12 +243,14 @@
         </div>
       </div>
       <div class="modal-footer">
-        <button type="submit" class="btn btn-primary">Update Record</button>
+        <button type="submit" class="btn btn-default">Add Record</button>
       </div>
     </form>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
+
+
 
 
 
@@ -328,21 +286,18 @@
         var table = $('#dataTables-example').DataTable({
                           "processing": true,
                           "serverSide": true,
-                          "ajax": "/invoices/getInvoices/"+sort,
+                          "ajax": "/users/getUsers/"+sort,
                           "paging":         true,
                           "order": [[ 1, "desc" ]],
                           "aoColumns": [
                                       { "sWidth": "0%" },
-                                      { "sWidth": "1%" },
-                                      { "sWidth": "5%" },
-                                      { "sWidth": "7%" },
-                                      { "sWidth": "28%" },
-                                      { "sWidth": "25%" },
+                                      { "sWidth": "20%" },
                                       { "sWidth": "10%" },
-                                      { "sWidth": "10%" },
-                                      { "sWidth": "4%" },
-                                      { "sWidth": "4%" },
-                                      { "sWidth": "2%" }
+                                      { "sWidth": "20%" },
+                                      { "sWidth": "20%" },
+                                      { "sWidth": "20%" },
+                                      { "sWidth": "10%" }
+                                     
                                       ],
                           
                   });
@@ -377,7 +332,7 @@
             var data = $('#myForm').serialize();
             $.ajax({
               method: "POST",
-              url: "/invoices/addInvoice",
+              url: "/users/addUser",
               data: data
             }).done(function(msg) {
                 window.location.reload(true);
@@ -394,7 +349,7 @@
             var data = $('#myFormE').serialize();
             $.ajax({
               method: "POST",
-              url: "/invoices/addInvoice",
+              url: "/users/addUser",
               data: data
             }).done(function(msg) {
                 window.location.reload(true);
@@ -414,7 +369,7 @@
       var data = {delete_record_id:delete_record_id};
       $.ajax({
         method: "POST",
-        url: "/invoices/deleteInvoice",
+        url: "/users/deleteUser",
         data: data
       }).done(function(msg) {
           window.location.reload(true);
@@ -450,7 +405,7 @@
 
         $.ajax({
             method: "POST",
-            url: "/invoices/loadRecord",
+            url: "/users/loadRecord",
             data: data,
             dataType:'json'
         }).done(function(data) {
@@ -458,15 +413,13 @@
             // console.log(data);
             // return false;
             $('#idE').val(data.id);
-            $('#invoice_noE').val(data.invoice_no);
-            $('#dateE').val(data.date);
-            $('#invoice_amountE').val(data.invoice_amount);
-            $('#paid_amountE').val(data.paid_amount);
-            $('#payment_detailsE').val(data.payment_details);
-            $('#payment_dateE').val(data.payment_date);
-            $('#payment_typeE').val(data.payment_type);
-            $('#pending_amountE').val(data.pending_amount);
-            $('#remarksE').val(data.remarks);
+            $('#fullnameE').val(data.fullname);
+            $('#companyE').val(data.company);
+            $('#phoneE').val(data.phone);
+            $('#addressE').val(data.address);
+            $('#emailE').val(data.email);
+            $('#typeE').val(data.type);
+            $('#usernameE').val(data.username);
 
           
             $('#editRecordModal').modal('show');

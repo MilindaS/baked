@@ -25,7 +25,12 @@ $user_details = Modules::run('user/getUser',$loggedinuser['id']);
         </li>
         <li <?php if($url[0]=="users"){echo 'class="active"';} ?> >
           <a href="/users/home">
-            <i class="fa fa-user"></i> <span>Users</span> 
+            <i class="fa fa-users"></i> <span>Users</span> 
+          </a>
+        </li>
+        <li <?php if($url[0]=="usersPermissions"){echo 'class="active"';} ?> >
+          <a href="/usersPermissions/home">
+            <i class="fa fa-key"></i> <span>User Permissions</span> 
           </a>
         </li>
       </ul>

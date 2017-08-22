@@ -50,11 +50,11 @@
                 
                 
                 if(data.type=='success'){
-                  if(data.data[0].authority==9){
-                     window.location = '<?php echo BASEURL;?>ocdb/repgen';
-                  }else{
+                  // if(data.data[0].authority==9){
+                  //    window.location = '<?php echo BASEURL;?>ocdb/repgen';
+                  // }else{
                         window.location = '<?php echo BASEURL;?>invoices/home';
-                  }
+                  // }
                   
                   }else{
                     $.growl.error({title:'', message: data.msg ,location:'br'});

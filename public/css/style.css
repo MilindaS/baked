@@ -1237,3 +1237,10 @@ h1,.panel-heading,.dataTables_length{
     right: 0;
 }
 
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+  background-color: #2a7ea8;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+    color: #111;
+}

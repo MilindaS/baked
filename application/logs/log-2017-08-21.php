@@ -14439,3 +14439,4440 @@ DEBUG - 2017-08-21 13:53:47 --> XSS Filtering completed
 DEBUG - 2017-08-21 13:53:47 --> XSS Filtering completed
 DEBUG - 2017-08-21 13:53:47 --> Final output sent to browser
 DEBUG - 2017-08-21 13:53:47 --> Total execution time: 0.0082
+DEBUG - 2017-08-21 13:57:37 --> Config Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:57:37 --> URI Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Router Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Output Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Security Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Input Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:57:37 --> Language Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Language Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Config Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:57:37 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:57:37 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Session Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:57:37 --> Session routines successfully run
+DEBUG - 2017-08-21 13:57:37 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:57:37 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:57:37 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:37 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:57:37 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:57:37 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:57:37 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:57:37 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:57:37 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:57:37 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:57:37 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 13:57:37 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 13:57:37 --> Final output sent to browser
+DEBUG - 2017-08-21 13:57:37 --> Total execution time: 0.0143
+DEBUG - 2017-08-21 13:57:38 --> Config Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:57:38 --> URI Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Router Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Output Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Security Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Input Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:57:38 --> Language Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Language Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Config Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:57:38 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:57:38 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Session Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:57:38 --> Session routines successfully run
+DEBUG - 2017-08-21 13:57:38 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:57:38 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:57:38 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:38 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:57:38 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:57:38 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:57:38 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:57:38 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:57:38 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:57:38 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:57:38 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:57:38 --> Model Class Initialized
+DEBUG - 2017-08-21 13:57:38 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:57:38 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:57:38 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:57:38 --> Final output sent to browser
+DEBUG - 2017-08-21 13:57:38 --> Total execution time: 0.0102
+DEBUG - 2017-08-21 13:58:31 --> Config Class Initialized
+DEBUG - 2017-08-21 13:58:31 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:58:31 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:58:31 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:58:31 --> URI Class Initialized
+DEBUG - 2017-08-21 13:58:31 --> Router Class Initialized
+ERROR - 2017-08-21 13:58:31 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 13:59:21 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:21 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Router Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Output Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Security Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Input Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:59:21 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:59:21 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:59:21 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Session Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:59:21 --> Session routines successfully run
+DEBUG - 2017-08-21 13:59:21 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:59:21 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:59:21 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:59:21 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:59:21 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:59:21 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 13:59:21 --> Final output sent to browser
+DEBUG - 2017-08-21 13:59:21 --> Total execution time: 0.0116
+DEBUG - 2017-08-21 13:59:21 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:21 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Router Class Initialized
+ERROR - 2017-08-21 13:59:21 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 13:59:21 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:21 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Router Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Output Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Security Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Input Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:59:21 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:59:21 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:59:21 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Session Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:59:21 --> Session routines successfully run
+DEBUG - 2017-08-21 13:59:21 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:59:21 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:59:21 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:59:21 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:59:21 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:59:21 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:21 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:59:21 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:21 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:21 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:21 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:21 --> Final output sent to browser
+DEBUG - 2017-08-21 13:59:21 --> Total execution time: 0.0064
+DEBUG - 2017-08-21 13:59:22 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:22 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Router Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Output Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Security Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Input Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:59:22 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:59:22 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:59:22 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Session Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:59:22 --> Session routines successfully run
+DEBUG - 2017-08-21 13:59:22 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:59:22 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:59:22 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:22 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:59:22 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:59:22 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:59:22 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:59:22 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:59:22 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:59:22 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:59:22 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 13:59:22 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 13:59:22 --> Final output sent to browser
+DEBUG - 2017-08-21 13:59:22 --> Total execution time: 0.0092
+DEBUG - 2017-08-21 13:59:22 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:22 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:22 --> Router Class Initialized
+ERROR - 2017-08-21 13:59:22 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 13:59:23 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:23 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Router Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Output Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Security Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Input Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 13:59:23 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Language Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Loader Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 13:59:23 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 13:59:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Session Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 13:59:23 --> Session routines successfully run
+DEBUG - 2017-08-21 13:59:23 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 13:59:23 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 13:59:23 --> Controller Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:23 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 13:59:23 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 13:59:23 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 13:59:23 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 13:59:23 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 13:59:23 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 13:59:23 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 13:59:23 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 13:59:23 --> Model Class Initialized
+DEBUG - 2017-08-21 13:59:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 13:59:23 --> Final output sent to browser
+DEBUG - 2017-08-21 13:59:23 --> Total execution time: 0.0081
+DEBUG - 2017-08-21 13:59:37 --> Config Class Initialized
+DEBUG - 2017-08-21 13:59:37 --> Hooks Class Initialized
+DEBUG - 2017-08-21 13:59:37 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 13:59:37 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 13:59:37 --> URI Class Initialized
+DEBUG - 2017-08-21 13:59:37 --> Router Class Initialized
+ERROR - 2017-08-21 13:59:37 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:00:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:16 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:16 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:16 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:16 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:16 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:16 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:16 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:16 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:16 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:16 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:00:16 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:16 --> Total execution time: 0.0104
+DEBUG - 2017-08-21 14:00:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:16 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Router Class Initialized
+ERROR - 2017-08-21 14:00:16 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:00:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:16 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:16 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:16 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:16 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:16 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:16 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:16 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:16 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:16 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:16 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:16 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:16 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:16 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:16 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:16 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:16 --> Total execution time: 0.0066
+DEBUG - 2017-08-21 14:00:28 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:28 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:28 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:28 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:28 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:28 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:28 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:28 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:28 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:28 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:28 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:00:28 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:28 --> Total execution time: 0.0138
+DEBUG - 2017-08-21 14:00:28 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:28 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Router Class Initialized
+ERROR - 2017-08-21 14:00:28 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:00:28 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:28 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:28 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:28 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:28 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:28 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:28 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:28 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:28 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:28 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:28 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:28 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:28 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:28 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:28 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:28 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:28 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:28 --> Total execution time: 0.0105
+DEBUG - 2017-08-21 14:00:35 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:35 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:35 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:35 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:35 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:35 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:35 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:35 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:35 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:35 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:35 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:35 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:00:35 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:35 --> Total execution time: 0.0180
+DEBUG - 2017-08-21 14:00:35 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:35 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Router Class Initialized
+ERROR - 2017-08-21 14:00:35 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:00:35 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:35 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:35 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:35 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:35 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:35 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:35 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:35 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:35 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:35 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:35 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:35 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:35 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:35 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:35 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:35 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:35 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:35 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:35 --> Total execution time: 0.0086
+DEBUG - 2017-08-21 14:00:45 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:45 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:45 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:45 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:45 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:45 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:45 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:45 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:45 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:45 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:45 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:45 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:00:45 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:45 --> Total execution time: 0.0104
+DEBUG - 2017-08-21 14:00:45 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:45 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Router Class Initialized
+ERROR - 2017-08-21 14:00:45 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:00:45 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:00:45 --> URI Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Router Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Output Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Security Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Input Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:00:45 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Language Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Config Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:00:45 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:00:45 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Session Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:00:45 --> Session routines successfully run
+DEBUG - 2017-08-21 14:00:45 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:00:45 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:00:45 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:00:45 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:00:45 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:00:45 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:00:45 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:00:45 --> Model Class Initialized
+DEBUG - 2017-08-21 14:00:45 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:45 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:45 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:00:45 --> Final output sent to browser
+DEBUG - 2017-08-21 14:00:45 --> Total execution time: 0.0078
+DEBUG - 2017-08-21 14:01:29 --> Config Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:01:29 --> URI Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Router Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Output Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Security Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Input Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:01:29 --> Language Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Language Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Config Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:01:29 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:01:29 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Session Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:01:29 --> Session routines successfully run
+DEBUG - 2017-08-21 14:01:29 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:01:29 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:01:29 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:01:29 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:01:29 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:01:29 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:01:29 --> Final output sent to browser
+DEBUG - 2017-08-21 14:01:29 --> Total execution time: 0.0130
+DEBUG - 2017-08-21 14:01:29 --> Config Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:01:29 --> URI Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Router Class Initialized
+ERROR - 2017-08-21 14:01:29 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:01:29 --> Config Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:01:29 --> URI Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Router Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Output Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Security Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Input Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:01:29 --> Language Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Language Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Config Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:01:29 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:01:29 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Session Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:01:29 --> Session routines successfully run
+DEBUG - 2017-08-21 14:01:29 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:01:29 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:01:29 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:01:29 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:01:29 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:01:29 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:01:29 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:01:29 --> Model Class Initialized
+DEBUG - 2017-08-21 14:01:29 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:01:29 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:01:29 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:01:29 --> Final output sent to browser
+DEBUG - 2017-08-21 14:01:29 --> Total execution time: 0.0071
+DEBUG - 2017-08-21 14:02:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:02:53 --> URI Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Router Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Output Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Security Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Input Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:02:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:02:53 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:02:53 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Session Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:02:53 --> Session routines successfully run
+DEBUG - 2017-08-21 14:02:53 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:02:53 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:02:53 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:02:53 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:02:53 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:02:53 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:02:53 --> Final output sent to browser
+DEBUG - 2017-08-21 14:02:53 --> Total execution time: 0.0108
+DEBUG - 2017-08-21 14:02:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:02:53 --> URI Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Router Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Output Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Security Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Input Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:02:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:02:53 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:02:53 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Session Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:02:53 --> Session routines successfully run
+DEBUG - 2017-08-21 14:02:53 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:02:53 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:02:53 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:02:53 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:02:53 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:02:53 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:02:53 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:02:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:02:53 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:02:53 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:02:53 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:02:53 --> Final output sent to browser
+DEBUG - 2017-08-21 14:02:53 --> Total execution time: 0.0103
+DEBUG - 2017-08-21 14:03:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:03:07 --> URI Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Router Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Output Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Security Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Input Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:03:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:03:07 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:03:07 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Session Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:03:07 --> Session routines successfully run
+DEBUG - 2017-08-21 14:03:07 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:03:07 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:03:07 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:03:07 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:03:07 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:03:07 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:03:07 --> Final output sent to browser
+DEBUG - 2017-08-21 14:03:07 --> Total execution time: 0.0106
+DEBUG - 2017-08-21 14:03:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:03:07 --> URI Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Router Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Output Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Security Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Input Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:03:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:03:07 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:03:07 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Session Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:03:07 --> Session routines successfully run
+DEBUG - 2017-08-21 14:03:07 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:03:07 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:03:07 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:03:07 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:03:07 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:03:07 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:03:07 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:03:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:03:07 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:03:07 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:03:07 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:03:07 --> Final output sent to browser
+DEBUG - 2017-08-21 14:03:07 --> Total execution time: 0.0072
+DEBUG - 2017-08-21 14:05:23 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:05:23 --> URI Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Router Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Output Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Security Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Input Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:05:23 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:05:23 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:05:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Session Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:05:23 --> Session routines successfully run
+DEBUG - 2017-08-21 14:05:23 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:05:23 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:05:23 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:05:23 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:05:23 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:05:23 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:05:23 --> Final output sent to browser
+DEBUG - 2017-08-21 14:05:23 --> Total execution time: 0.0150
+DEBUG - 2017-08-21 14:05:23 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:05:23 --> URI Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Router Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Output Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Security Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Input Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:05:23 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:05:23 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:05:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Session Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:05:23 --> Session routines successfully run
+DEBUG - 2017-08-21 14:05:23 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:05:23 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:05:23 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:05:23 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:05:23 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:05:23 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:23 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:05:23 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:23 --> Final output sent to browser
+DEBUG - 2017-08-21 14:05:23 --> Total execution time: 0.0066
+DEBUG - 2017-08-21 14:05:25 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:05:25 --> URI Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Router Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Output Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Security Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Input Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:05:25 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:05:25 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:05:25 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Session Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:05:25 --> Session routines successfully run
+DEBUG - 2017-08-21 14:05:25 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:05:25 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:05:25 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:25 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:05:25 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:05:25 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:05:25 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:05:25 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:05:25 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:05:25 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:25 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:05:25 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:25 --> Final output sent to browser
+DEBUG - 2017-08-21 14:05:25 --> Total execution time: 0.0095
+DEBUG - 2017-08-21 14:05:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:05:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Router Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Output Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Security Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Input Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:05:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:05:39 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:05:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Session Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:05:39 --> Session routines successfully run
+DEBUG - 2017-08-21 14:05:39 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:05:39 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:05:39 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:05:39 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:05:39 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:05:39 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:05:39 --> Final output sent to browser
+DEBUG - 2017-08-21 14:05:39 --> Total execution time: 0.0108
+DEBUG - 2017-08-21 14:05:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:05:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Router Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Output Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Security Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Input Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:05:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:05:39 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:05:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Session Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:05:39 --> Session routines successfully run
+DEBUG - 2017-08-21 14:05:39 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:05:39 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:05:39 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:05:39 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:05:39 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:05:39 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:05:39 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:05:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:05:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:05:39 --> Final output sent to browser
+DEBUG - 2017-08-21 14:05:39 --> Total execution time: 0.0071
+DEBUG - 2017-08-21 14:06:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:06:07 --> URI Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Router Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Output Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Security Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Input Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:06:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:06:07 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:06:07 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Session Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:06:07 --> Session routines successfully run
+DEBUG - 2017-08-21 14:06:07 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:06:07 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:06:07 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:06:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:06:07 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:06:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:06:07 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:06:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:06:07 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:06:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:06:07 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:06:07 --> Final output sent to browser
+DEBUG - 2017-08-21 14:06:07 --> Total execution time: 0.0102
+DEBUG - 2017-08-21 14:06:08 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:06:08 --> URI Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Router Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Output Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Security Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Input Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:06:08 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:06:08 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:06:08 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Session Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:06:08 --> Session routines successfully run
+DEBUG - 2017-08-21 14:06:08 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:06:08 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:06:08 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:08 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:06:08 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:06:08 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:06:08 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:06:08 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:06:08 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:06:08 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:08 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:06:08 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:08 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:06:08 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:06:08 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:06:08 --> Final output sent to browser
+DEBUG - 2017-08-21 14:06:08 --> Total execution time: 0.0101
+DEBUG - 2017-08-21 14:06:12 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:06:12 --> URI Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Router Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Output Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Security Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Input Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:06:12 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Language Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Config Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:06:12 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:06:12 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Session Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:06:12 --> Session routines successfully run
+DEBUG - 2017-08-21 14:06:12 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:06:12 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:06:12 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:12 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:06:12 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:06:12 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:06:12 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:06:12 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:06:12 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:06:12 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:06:12 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:06:12 --> Model Class Initialized
+DEBUG - 2017-08-21 14:06:12 --> Final output sent to browser
+DEBUG - 2017-08-21 14:06:12 --> Total execution time: 0.0110
+DEBUG - 2017-08-21 14:07:10 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:07:10 --> URI Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Router Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Output Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Security Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Input Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:07:10 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:07:10 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:07:10 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Session Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:07:10 --> Session routines successfully run
+DEBUG - 2017-08-21 14:07:10 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:07:10 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:07:10 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:07:10 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:07:10 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:07:10 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:07:10 --> Final output sent to browser
+DEBUG - 2017-08-21 14:07:10 --> Total execution time: 0.0119
+DEBUG - 2017-08-21 14:07:10 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:07:10 --> URI Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Router Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Output Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Security Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Input Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:07:10 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:07:10 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:07:10 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Session Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:07:10 --> Session routines successfully run
+DEBUG - 2017-08-21 14:07:10 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:07:10 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:07:10 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:07:10 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:07:10 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:07:10 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:10 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:07:10 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:10 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:07:10 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:07:10 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:07:10 --> Final output sent to browser
+DEBUG - 2017-08-21 14:07:10 --> Total execution time: 0.0113
+DEBUG - 2017-08-21 14:07:11 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:07:11 --> URI Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Router Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Output Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Security Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Input Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:07:11 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:07:11 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:07:11 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Session Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:07:11 --> Session routines successfully run
+DEBUG - 2017-08-21 14:07:11 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:07:11 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:07:11 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:11 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:07:11 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:07:11 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:07:11 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:07:11 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:07:11 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:07:11 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:11 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:07:11 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:11 --> Final output sent to browser
+DEBUG - 2017-08-21 14:07:11 --> Total execution time: 0.0102
+DEBUG - 2017-08-21 14:07:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:07:16 --> URI Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Router Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Output Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Security Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Input Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:07:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Language Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Config Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:07:16 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:07:16 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Session Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:07:16 --> Session routines successfully run
+DEBUG - 2017-08-21 14:07:16 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:07:16 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:07:16 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:07:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:07:16 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:07:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:07:16 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:07:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:07:16 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:07:16 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:07:16 --> Model Class Initialized
+DEBUG - 2017-08-21 14:07:16 --> Final output sent to browser
+DEBUG - 2017-08-21 14:07:16 --> Total execution time: 0.0107
+DEBUG - 2017-08-21 14:08:59 --> Config Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:08:59 --> URI Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Router Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Output Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Security Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Input Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:08:59 --> Language Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Language Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Config Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:08:59 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:08:59 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Session Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:08:59 --> Session routines successfully run
+DEBUG - 2017-08-21 14:08:59 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:08:59 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:08:59 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:08:59 --> Model Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:08:59 --> Model Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:08:59 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:08:59 --> Model Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:08:59 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:08:59 --> Model Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:08:59 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:08:59 --> Model Class Initialized
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:08:59 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:08:59 --> Final output sent to browser
+DEBUG - 2017-08-21 14:08:59 --> Total execution time: 0.0151
+DEBUG - 2017-08-21 14:09:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:09:00 --> URI Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Router Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Output Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Security Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Input Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:09:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:09:00 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:09:00 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Session Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:09:00 --> Session routines successfully run
+DEBUG - 2017-08-21 14:09:00 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:09:00 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:09:00 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:09:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:09:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:09:00 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:09:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:09:00 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:09:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:09:00 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:09:00 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:09:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:09:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:09:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:09:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:09:00 --> Final output sent to browser
+DEBUG - 2017-08-21 14:09:00 --> Total execution time: 0.0065
+DEBUG - 2017-08-21 14:10:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:10:00 --> URI Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Router Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Output Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Security Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Input Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:10:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:10:00 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:10:00 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Session Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:10:00 --> Session routines successfully run
+DEBUG - 2017-08-21 14:10:00 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:10:00 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:10:00 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:10:00 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:10:00 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:10:00 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:10:00 --> Final output sent to browser
+DEBUG - 2017-08-21 14:10:00 --> Total execution time: 0.0135
+DEBUG - 2017-08-21 14:10:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:10:00 --> URI Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Router Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Output Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Security Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Input Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:10:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:10:00 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:10:00 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Session Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:10:00 --> Session routines successfully run
+DEBUG - 2017-08-21 14:10:00 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:10:00 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:10:00 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:10:00 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:10:00 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:10:00 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:00 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:10:00 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:10:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:10:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:10:00 --> Final output sent to browser
+DEBUG - 2017-08-21 14:10:00 --> Total execution time: 0.0065
+DEBUG - 2017-08-21 14:10:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:10:13 --> URI Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Router Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Output Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Security Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Input Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:10:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:10:13 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:10:13 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Session Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:10:13 --> Session routines successfully run
+DEBUG - 2017-08-21 14:10:13 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:10:13 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:10:13 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:10:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:10:13 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:10:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:10:13 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:10:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/user/views/home.php
+DEBUG - 2017-08-21 14:10:13 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:10:13 --> Final output sent to browser
+DEBUG - 2017-08-21 14:10:13 --> Total execution time: 0.0131
+DEBUG - 2017-08-21 14:10:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:10:13 --> URI Class Initialized
+DEBUG - 2017-08-21 14:10:13 --> Router Class Initialized
+ERROR - 2017-08-21 14:10:13 --> 404 Page Not Found --> public/AdminLTE-master/dist/img/photo1.png
+DEBUG - 2017-08-21 14:11:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:11:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Router Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Output Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Security Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Input Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:11:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:11:39 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:11:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Session Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:11:39 --> Session routines successfully run
+DEBUG - 2017-08-21 14:11:39 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:11:39 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:11:39 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:11:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:11:39 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:11:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:11:39 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:11:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/user/views/home.php
+DEBUG - 2017-08-21 14:11:39 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:11:39 --> Final output sent to browser
+DEBUG - 2017-08-21 14:11:39 --> Total execution time: 0.0117
+DEBUG - 2017-08-21 14:11:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:11:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:11:39 --> Router Class Initialized
+ERROR - 2017-08-21 14:11:39 --> 404 Page Not Found --> public/AdminLTE-master/dist/img/photo1.png
+DEBUG - 2017-08-21 14:11:42 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:11:42 --> URI Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Router Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Output Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Security Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Input Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:11:42 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:11:42 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:11:42 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Session Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:11:42 --> Session routines successfully run
+DEBUG - 2017-08-21 14:11:42 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:11:42 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:11:42 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:11:42 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:11:42 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:11:42 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:11:42 --> Final output sent to browser
+DEBUG - 2017-08-21 14:11:42 --> Total execution time: 0.0152
+DEBUG - 2017-08-21 14:11:42 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:11:42 --> URI Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Router Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Output Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Security Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Input Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:11:42 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Language Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Config Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:11:42 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:11:42 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Session Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:11:42 --> Session routines successfully run
+DEBUG - 2017-08-21 14:11:42 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:11:42 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:11:42 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:11:42 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:11:42 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:11:42 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:11:42 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:11:42 --> Model Class Initialized
+DEBUG - 2017-08-21 14:11:42 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:11:42 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:11:42 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:11:42 --> Final output sent to browser
+DEBUG - 2017-08-21 14:11:42 --> Total execution time: 0.0112
+DEBUG - 2017-08-21 14:12:04 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:12:04 --> URI Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Router Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Output Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Security Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Input Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:12:04 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:12:04 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:12:04 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Session Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:12:04 --> Session routines successfully run
+DEBUG - 2017-08-21 14:12:04 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:12:04 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:12:04 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:12:04 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:12:04 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:12:04 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:12:04 --> Final output sent to browser
+DEBUG - 2017-08-21 14:12:04 --> Total execution time: 0.0131
+DEBUG - 2017-08-21 14:12:04 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:12:04 --> URI Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Router Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Output Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Security Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Input Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:12:04 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:12:04 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:12:04 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Session Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:12:04 --> Session routines successfully run
+DEBUG - 2017-08-21 14:12:04 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:12:04 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:12:04 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:12:04 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:12:04 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:12:04 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:04 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:12:04 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:04 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:04 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:04 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:04 --> Final output sent to browser
+DEBUG - 2017-08-21 14:12:04 --> Total execution time: 0.0059
+DEBUG - 2017-08-21 14:12:14 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:12:14 --> URI Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Router Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Output Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Security Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Input Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:12:14 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:12:14 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:12:14 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Session Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:12:14 --> Session routines successfully run
+DEBUG - 2017-08-21 14:12:14 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:12:14 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:12:14 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:12:14 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:12:14 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:12:14 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:12:14 --> Final output sent to browser
+DEBUG - 2017-08-21 14:12:14 --> Total execution time: 0.0136
+DEBUG - 2017-08-21 14:12:14 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:12:14 --> URI Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Router Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Output Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Security Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Input Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:12:14 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Language Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Config Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:12:14 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:12:14 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Session Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:12:14 --> Session routines successfully run
+DEBUG - 2017-08-21 14:12:14 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:12:14 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:12:14 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:12:14 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:12:14 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:12:14 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:12:14 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:12:14 --> Model Class Initialized
+DEBUG - 2017-08-21 14:12:14 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:14 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:14 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:12:14 --> Final output sent to browser
+DEBUG - 2017-08-21 14:12:14 --> Total execution time: 0.0064
+DEBUG - 2017-08-21 14:23:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:23:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Router Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Output Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Security Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Input Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:23:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:23:39 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:23:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Session Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:23:39 --> Session routines successfully run
+DEBUG - 2017-08-21 14:23:39 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:23:39 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:23:39 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:23:39 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:23:39 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:23:39 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:23:39 --> Final output sent to browser
+DEBUG - 2017-08-21 14:23:39 --> Total execution time: 0.0121
+DEBUG - 2017-08-21 14:23:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:23:39 --> URI Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Router Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Output Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Security Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Input Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:23:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Language Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Config Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:23:39 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:23:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Session Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:23:39 --> Session routines successfully run
+DEBUG - 2017-08-21 14:23:39 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:23:39 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:23:39 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:23:39 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:23:39 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:23:39 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:23:39 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:23:39 --> Model Class Initialized
+DEBUG - 2017-08-21 14:23:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:23:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:23:39 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:23:39 --> Final output sent to browser
+DEBUG - 2017-08-21 14:23:39 --> Total execution time: 0.0064
+DEBUG - 2017-08-21 14:25:30 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:25:30 --> URI Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Router Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Output Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Security Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Input Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:25:30 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:25:30 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:25:30 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Session Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:25:30 --> Session routines successfully run
+DEBUG - 2017-08-21 14:25:30 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:25:30 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:25:30 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:25:30 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:25:30 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:25:30 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:25:30 --> Final output sent to browser
+DEBUG - 2017-08-21 14:25:30 --> Total execution time: 0.0155
+DEBUG - 2017-08-21 14:25:30 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:25:30 --> URI Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Router Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Output Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Security Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Input Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:25:30 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:25:30 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:25:30 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Session Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:25:30 --> Session routines successfully run
+DEBUG - 2017-08-21 14:25:30 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:25:30 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:25:30 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:25:30 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:25:30 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:25:30 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:30 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:25:30 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:30 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:25:30 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:25:30 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:25:30 --> Final output sent to browser
+DEBUG - 2017-08-21 14:25:30 --> Total execution time: 0.0073
+DEBUG - 2017-08-21 14:25:32 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:25:32 --> URI Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Router Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Output Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Security Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Input Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:25:32 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:25:32 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:25:32 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Session Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:25:32 --> Session routines successfully run
+DEBUG - 2017-08-21 14:25:32 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:25:32 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:25:32 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:32 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:25:32 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:25:32 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:25:32 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:25:32 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:25:32 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:25:32 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:25:32 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:25:32 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:25:32 --> Final output sent to browser
+DEBUG - 2017-08-21 14:25:32 --> Total execution time: 0.0121
+DEBUG - 2017-08-21 14:25:50 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:25:50 --> URI Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Router Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Output Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Security Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Input Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:25:50 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:25:50 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:25:50 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Session Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:25:50 --> Session routines successfully run
+DEBUG - 2017-08-21 14:25:50 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:25:50 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:25:50 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:25:50 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:25:50 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:25:50 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:25:50 --> Final output sent to browser
+DEBUG - 2017-08-21 14:25:50 --> Total execution time: 0.0110
+DEBUG - 2017-08-21 14:25:50 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:25:50 --> URI Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Router Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Output Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Security Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Input Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:25:50 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Language Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Config Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:25:50 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:25:50 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Session Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:25:50 --> Session routines successfully run
+DEBUG - 2017-08-21 14:25:50 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:25:50 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:25:50 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:25:50 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:25:50 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:25:50 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:25:50 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:25:50 --> Model Class Initialized
+DEBUG - 2017-08-21 14:25:50 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:25:50 --> XSS Filtering completed
+ERROR - 2017-08-21 14:25:50 --> Severity: Notice  --> Undefined index: columns[6][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:25:50 --> Severity: Notice  --> Undefined index: columns[7][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:25:50 --> Severity: Notice  --> Undefined index: columns[8][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:25:50 --> Severity: Notice  --> Undefined index: columns[9][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:25:50 --> Severity: Notice  --> Undefined index: columns[10][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+DEBUG - 2017-08-21 14:25:50 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:25:50 --> Final output sent to browser
+DEBUG - 2017-08-21 14:25:50 --> Total execution time: 0.0068
+DEBUG - 2017-08-21 14:26:21 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:26:21 --> URI Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Router Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Output Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Security Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Input Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:26:21 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:26:21 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:26:21 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Session Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:26:21 --> Session routines successfully run
+DEBUG - 2017-08-21 14:26:21 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:26:21 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:26:21 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:26:21 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:26:21 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:26:21 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:26:21 --> Final output sent to browser
+DEBUG - 2017-08-21 14:26:21 --> Total execution time: 0.0140
+DEBUG - 2017-08-21 14:26:21 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:26:21 --> URI Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Router Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Output Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Security Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Input Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:26:21 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:26:21 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:26:21 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Session Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:26:21 --> Session routines successfully run
+DEBUG - 2017-08-21 14:26:21 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:26:21 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:26:21 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:26:21 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:26:21 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:26:21 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:21 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:26:21 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:21 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:26:21 --> XSS Filtering completed
+ERROR - 2017-08-21 14:26:21 --> Severity: Notice  --> Undefined index: columns[6][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:26:21 --> Severity: Notice  --> Undefined index: columns[7][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:26:21 --> Severity: Notice  --> Undefined index: columns[8][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:26:21 --> Severity: Notice  --> Undefined index: columns[9][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+ERROR - 2017-08-21 14:26:21 --> Severity: Notice  --> Undefined index: columns[10][searchable] /home/milinda/Projects/hendricks/application/modules/invoices/models/mdl_invoices.php 474
+DEBUG - 2017-08-21 14:26:21 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:26:21 --> Final output sent to browser
+DEBUG - 2017-08-21 14:26:21 --> Total execution time: 0.0063
+DEBUG - 2017-08-21 14:26:47 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:26:47 --> URI Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Router Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Output Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Security Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Input Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:26:47 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:26:47 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:26:47 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Session Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:26:47 --> Session routines successfully run
+DEBUG - 2017-08-21 14:26:47 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:26:47 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:26:47 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:47 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:26:47 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:26:47 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:26:47 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:26:47 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:26:47 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:26:47 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:26:47 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:26:47 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:26:47 --> Final output sent to browser
+DEBUG - 2017-08-21 14:26:47 --> Total execution time: 0.0148
+DEBUG - 2017-08-21 14:26:49 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:26:49 --> URI Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Router Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Output Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Security Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Input Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:26:49 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Language Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Config Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:26:49 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:26:49 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Session Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:26:49 --> Session routines successfully run
+DEBUG - 2017-08-21 14:26:49 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:26:49 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:26:49 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:49 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:26:49 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:26:49 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:26:49 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:26:49 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:26:49 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:26:49 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:26:49 --> Model Class Initialized
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:26:49 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:26:49 --> Final output sent to browser
+DEBUG - 2017-08-21 14:26:49 --> Total execution time: 0.0134
+DEBUG - 2017-08-21 14:27:05 --> Config Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:27:05 --> URI Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Router Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Output Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Security Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Input Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:27:05 --> Language Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Language Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Config Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:27:05 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:27:05 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Session Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:27:05 --> Session routines successfully run
+DEBUG - 2017-08-21 14:27:05 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:27:05 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:27:05 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:27:05 --> Model Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:27:05 --> Model Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:27:05 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:27:05 --> Model Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:27:05 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:27:05 --> Model Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:27:05 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:27:05 --> Model Class Initialized
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:27:05 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:27:05 --> Final output sent to browser
+DEBUG - 2017-08-21 14:27:05 --> Total execution time: 0.0133
+DEBUG - 2017-08-21 14:31:58 --> Config Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:31:58 --> URI Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Router Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Output Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Security Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Input Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:31:58 --> Language Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Language Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Config Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:31:58 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:31:58 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Session Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:31:58 --> Session routines successfully run
+DEBUG - 2017-08-21 14:31:58 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:31:58 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:31:58 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:31:58 --> Model Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:31:58 --> Model Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:31:58 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:31:58 --> Model Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:31:58 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:31:58 --> Model Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:31:58 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:31:58 --> Model Class Initialized
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:31:58 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:31:58 --> Final output sent to browser
+DEBUG - 2017-08-21 14:31:58 --> Total execution time: 0.0155
+DEBUG - 2017-08-21 14:32:40 --> Config Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:32:40 --> URI Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Router Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Output Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Security Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Input Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:32:40 --> Language Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Language Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Config Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:32:40 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:32:40 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Session Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:32:40 --> Session routines successfully run
+DEBUG - 2017-08-21 14:32:40 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:32:40 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:32:40 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:32:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:32:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:32:40 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:32:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:32:40 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:32:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:32:40 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:32:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:32:40 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:32:40 --> Final output sent to browser
+DEBUG - 2017-08-21 14:32:40 --> Total execution time: 0.0169
+DEBUG - 2017-08-21 14:41:40 --> Config Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:41:40 --> URI Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Router Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Output Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Security Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Input Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:41:40 --> Language Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Language Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Config Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:41:40 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:41:40 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Session Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:41:40 --> Session routines successfully run
+DEBUG - 2017-08-21 14:41:40 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:41:40 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:41:40 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:41:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:41:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:41:40 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:41:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:41:40 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:41:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:41:40 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:41:40 --> Model Class Initialized
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:41:40 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:41:40 --> Final output sent to browser
+DEBUG - 2017-08-21 14:41:40 --> Total execution time: 0.0162
+DEBUG - 2017-08-21 14:41:47 --> Config Class Initialized
+DEBUG - 2017-08-21 14:41:47 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:41:47 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:41:47 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:41:47 --> URI Class Initialized
+DEBUG - 2017-08-21 14:41:47 --> Router Class Initialized
+ERROR - 2017-08-21 14:41:47 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:42:01 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:42:01 --> URI Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Router Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Output Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Security Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Input Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:42:01 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:42:01 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:42:01 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Session Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:42:01 --> Session routines successfully run
+DEBUG - 2017-08-21 14:42:01 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:42:01 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:42:01 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:01 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:42:01 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:42:01 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:42:01 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:42:01 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:42:01 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:42:01 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:42:01 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:42:01 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:42:01 --> Final output sent to browser
+DEBUG - 2017-08-21 14:42:01 --> Total execution time: 0.0101
+DEBUG - 2017-08-21 14:42:02 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:02 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:42:02 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:42:02 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:42:02 --> URI Class Initialized
+DEBUG - 2017-08-21 14:42:02 --> Router Class Initialized
+ERROR - 2017-08-21 14:42:02 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:42:22 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:42:22 --> URI Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Router Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Output Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Security Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Input Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:42:22 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:42:22 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:42:22 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Session Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:42:22 --> Session routines successfully run
+DEBUG - 2017-08-21 14:42:22 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:42:22 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:42:22 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:42:22 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:42:22 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:42:22 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:42:22 --> Final output sent to browser
+DEBUG - 2017-08-21 14:42:22 --> Total execution time: 0.0123
+DEBUG - 2017-08-21 14:42:22 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:42:22 --> URI Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Router Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Output Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Security Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Input Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:42:22 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Language Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:42:22 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:42:22 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Session Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:42:22 --> Session routines successfully run
+DEBUG - 2017-08-21 14:42:22 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:42:22 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:42:22 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:42:22 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:42:22 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:42:22 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:42:22 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:42:22 --> Model Class Initialized
+ERROR - 2017-08-21 14:42:22 --> Severity: Warning  --> Missing argument 1 for Mdl_users::getUsers(), called in /home/milinda/Projects/hendricks/application/modules/users/controllers/users.php on line 19 and defined /home/milinda/Projects/hendricks/application/modules/users/models/mdl_users.php 41
+DEBUG - 2017-08-21 14:42:22 --> DB Transaction Failure
+ERROR - 2017-08-21 14:42:22 --> Query error: Table 'hendricks.users' doesn't exist
+DEBUG - 2017-08-21 14:42:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2017-08-21 14:42:22 --> Config Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:42:22 --> URI Class Initialized
+DEBUG - 2017-08-21 14:42:22 --> Router Class Initialized
+ERROR - 2017-08-21 14:42:22 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:44:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:13 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Router Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Output Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Security Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Input Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:44:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:44:13 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:44:13 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Session Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:44:13 --> Session routines successfully run
+DEBUG - 2017-08-21 14:44:13 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:44:13 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:44:13 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:44:13 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:44:13 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:44:13 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:44:13 --> Final output sent to browser
+DEBUG - 2017-08-21 14:44:13 --> Total execution time: 0.0128
+DEBUG - 2017-08-21 14:44:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:13 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Router Class Initialized
+ERROR - 2017-08-21 14:44:13 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:44:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:13 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Router Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Output Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Security Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Input Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:44:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:44:13 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:44:13 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Session Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:44:13 --> Session routines successfully run
+DEBUG - 2017-08-21 14:44:13 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:44:13 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:44:13 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:44:13 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:44:13 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:44:13 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:13 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:44:13 --> Model Class Initialized
+ERROR - 2017-08-21 14:44:13 --> Severity: Warning  --> Missing argument 1 for Mdl_users::getUsers(), called in /home/milinda/Projects/hendricks/application/modules/users/controllers/users.php on line 19 and defined /home/milinda/Projects/hendricks/application/modules/users/models/mdl_users.php 41
+DEBUG - 2017-08-21 14:44:13 --> DB Transaction Failure
+ERROR - 2017-08-21 14:44:13 --> Query error: Table 'hendricks.users' doesn't exist
+DEBUG - 2017-08-21 14:44:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2017-08-21 14:44:57 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:57 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Router Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Output Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Security Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Input Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:44:57 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:44:57 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:44:57 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Session Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:44:57 --> Session routines successfully run
+DEBUG - 2017-08-21 14:44:57 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:44:57 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:44:57 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:44:57 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:44:57 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:44:57 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:44:57 --> Final output sent to browser
+DEBUG - 2017-08-21 14:44:57 --> Total execution time: 0.0101
+DEBUG - 2017-08-21 14:44:57 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:57 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Router Class Initialized
+ERROR - 2017-08-21 14:44:57 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:44:57 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:44:57 --> URI Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Router Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Output Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Security Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Input Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:44:57 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Language Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Config Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:44:57 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:44:57 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Session Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:44:57 --> Session routines successfully run
+DEBUG - 2017-08-21 14:44:57 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:44:57 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:44:57 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:44:57 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:44:57 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:44:57 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:44:57 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:44:57 --> Model Class Initialized
+ERROR - 2017-08-21 14:44:57 --> Severity: Warning  --> Missing argument 1 for Mdl_users::getUsers(), called in /home/milinda/Projects/hendricks/application/modules/users/controllers/users.php on line 19 and defined /home/milinda/Projects/hendricks/application/modules/users/models/mdl_users.php 41
+DEBUG - 2017-08-21 14:44:57 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:44:57 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:44:57 --> XSS Filtering completed
+ERROR - 2017-08-21 14:44:57 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 14:44:57 --> Final output sent to browser
+DEBUG - 2017-08-21 14:44:57 --> Total execution time: 0.0068
+DEBUG - 2017-08-21 14:45:06 --> Config Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:45:06 --> URI Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Router Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Output Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Security Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Input Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:45:06 --> Language Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Language Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Config Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:45:06 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:45:06 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Session Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:45:06 --> Session routines successfully run
+DEBUG - 2017-08-21 14:45:06 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:45:06 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:45:06 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:06 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:45:06 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:45:06 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:45:06 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:45:06 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:45:06 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:45:06 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:45:06 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:45:06 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:45:06 --> Final output sent to browser
+DEBUG - 2017-08-21 14:45:06 --> Total execution time: 0.0118
+DEBUG - 2017-08-21 14:45:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:45:07 --> URI Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Router Class Initialized
+ERROR - 2017-08-21 14:45:07 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:45:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:45:07 --> URI Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Router Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Output Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Security Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Input Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:45:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Language Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Config Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:45:07 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:45:07 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Session Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:45:07 --> Session routines successfully run
+DEBUG - 2017-08-21 14:45:07 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:45:07 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:45:07 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:45:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:45:07 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:45:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:45:07 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:45:07 --> Model Class Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:45:07 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:45:07 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:45:07 --> Model Class Initialized
+ERROR - 2017-08-21 14:45:07 --> Severity: Warning  --> Missing argument 1 for Mdl_users::getUsers(), called in /home/milinda/Projects/hendricks/application/modules/users/controllers/users.php on line 19 and defined /home/milinda/Projects/hendricks/application/modules/users/models/mdl_users.php 41
+DEBUG - 2017-08-21 14:45:07 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:45:07 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:45:07 --> XSS Filtering completed
+ERROR - 2017-08-21 14:45:07 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 14:45:07 --> Final output sent to browser
+DEBUG - 2017-08-21 14:45:07 --> Total execution time: 0.0083
+DEBUG - 2017-08-21 14:46:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:46:19 --> URI Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Router Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Output Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Security Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Input Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:46:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:46:19 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:46:19 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Session Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:46:19 --> Session routines successfully run
+DEBUG - 2017-08-21 14:46:19 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:46:19 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:46:19 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:46:19 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:46:19 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:46:19 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:46:19 --> Final output sent to browser
+DEBUG - 2017-08-21 14:46:19 --> Total execution time: 0.0175
+DEBUG - 2017-08-21 14:46:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:46:19 --> URI Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Router Class Initialized
+ERROR - 2017-08-21 14:46:19 --> 404 Page Not Found --> public/css/bootstrap.min.css.map
+DEBUG - 2017-08-21 14:46:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:46:19 --> URI Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Router Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Output Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Security Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Input Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:46:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:46:19 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:46:19 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Session Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:46:19 --> Session routines successfully run
+DEBUG - 2017-08-21 14:46:19 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:46:19 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:46:19 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:46:19 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:46:19 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:46:19 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:46:19 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:46:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:46:19 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:46:19 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:46:19 --> XSS Filtering completed
+ERROR - 2017-08-21 14:46:19 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 14:46:19 --> Final output sent to browser
+DEBUG - 2017-08-21 14:46:19 --> Total execution time: 0.0070
+DEBUG - 2017-08-21 14:47:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:47:19 --> URI Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Router Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Output Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Security Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Input Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:47:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Language Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Config Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:47:19 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:47:19 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Session Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:47:19 --> Session routines successfully run
+DEBUG - 2017-08-21 14:47:19 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:47:19 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:47:19 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:47:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:47:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:47:19 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:47:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:47:19 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:47:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:47:19 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:47:19 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:47:19 --> Model Class Initialized
+DEBUG - 2017-08-21 14:47:19 --> Final output sent to browser
+DEBUG - 2017-08-21 14:47:19 --> Total execution time: 0.0104
+DEBUG - 2017-08-21 14:55:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:55:53 --> URI Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Router Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Output Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Security Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Input Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:55:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:55:53 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:55:53 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Session Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:55:53 --> Session routines successfully run
+DEBUG - 2017-08-21 14:55:53 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:55:53 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:55:53 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:55:53 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:55:53 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:55:53 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 14:55:53 --> Final output sent to browser
+DEBUG - 2017-08-21 14:55:53 --> Total execution time: 0.0082
+DEBUG - 2017-08-21 14:55:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:55:53 --> URI Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Router Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Output Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Security Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Input Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:55:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:55:53 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:55:53 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Session Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:55:53 --> Session routines successfully run
+DEBUG - 2017-08-21 14:55:53 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:55:53 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:55:53 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:55:53 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:55:53 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:55:53 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:53 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:55:53 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:53 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:55:53 --> XSS Filtering completed
+DEBUG - 2017-08-21 14:55:53 --> XSS Filtering completed
+ERROR - 2017-08-21 14:55:53 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 14:55:53 --> Final output sent to browser
+DEBUG - 2017-08-21 14:55:53 --> Total execution time: 0.0070
+DEBUG - 2017-08-21 14:55:54 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:55:54 --> URI Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Router Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Output Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Security Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Input Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:55:54 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Language Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Config Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:55:54 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:55:54 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Session Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:55:54 --> Session routines successfully run
+DEBUG - 2017-08-21 14:55:54 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:55:54 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:55:54 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:54 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:55:54 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:55:54 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:55:54 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:55:54 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:55:54 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:55:54 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:55:54 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:55:54 --> Model Class Initialized
+DEBUG - 2017-08-21 14:55:54 --> Final output sent to browser
+DEBUG - 2017-08-21 14:55:54 --> Total execution time: 0.0108
+DEBUG - 2017-08-21 14:56:52 --> Config Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Hooks Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 14:56:52 --> URI Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Router Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Output Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Security Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Input Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 14:56:52 --> Language Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Language Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Config Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Loader Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 14:56:52 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 14:56:52 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Session Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 14:56:52 --> Session routines successfully run
+DEBUG - 2017-08-21 14:56:52 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 14:56:52 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 14:56:52 --> Controller Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 14:56:52 --> Model Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 14:56:52 --> Model Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 14:56:52 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 14:56:52 --> Model Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 14:56:52 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 14:56:52 --> Model Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 14:56:52 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 14:56:52 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 14:56:52 --> Model Class Initialized
+DEBUG - 2017-08-21 14:56:52 --> Final output sent to browser
+DEBUG - 2017-08-21 14:56:52 --> Total execution time: 0.0117
+DEBUG - 2017-08-21 15:04:23 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:23 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:23 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:23 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:23 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:23 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:23 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:23 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:23 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:23 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:23 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:23 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:23 --> Total execution time: 0.0121
+DEBUG - 2017-08-21 15:04:23 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:23 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:23 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:23 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:23 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:23 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:23 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:23 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:23 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:23 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:23 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:23 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:23 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:23 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:23 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:23 --> Total execution time: 0.0072
+DEBUG - 2017-08-21 15:04:24 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:24 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:24 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:24 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:24 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:24 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:24 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:24 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:24 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:24 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:24 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:24 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:24 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:24 --> Total execution time: 0.0109
+DEBUG - 2017-08-21 15:04:24 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:24 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:24 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:24 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:24 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:24 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:24 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:24 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:24 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:24 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:24 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:24 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:24 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:24 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:24 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:24 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:24 --> XSS Filtering completed
+ERROR - 2017-08-21 15:04:24 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:04:24 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:24 --> Total execution time: 0.0094
+DEBUG - 2017-08-21 15:04:27 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:27 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:27 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:27 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:27 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:27 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:27 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:27 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:27 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:27 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:27 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:27 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:27 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:27 --> Total execution time: 0.0119
+DEBUG - 2017-08-21 15:04:27 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:27 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:27 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:27 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:27 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:27 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:27 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:27 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:27 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:27 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:27 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:27 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:27 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:27 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:27 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:27 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:27 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:27 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:27 --> Total execution time: 0.0073
+DEBUG - 2017-08-21 15:04:28 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:28 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:28 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:28 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:28 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:28 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:28 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:28 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:28 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:28 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:28 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:28 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:28 --> Total execution time: 0.0107
+DEBUG - 2017-08-21 15:04:28 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:28 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:28 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:28 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:28 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:28 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:28 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:28 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:28 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:28 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:28 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:28 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:28 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:28 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:28 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:28 --> XSS Filtering completed
+ERROR - 2017-08-21 15:04:28 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:04:28 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:28 --> Total execution time: 0.0076
+DEBUG - 2017-08-21 15:04:46 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:46 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:46 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:46 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:46 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:46 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:46 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:46 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:46 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:46 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:46 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:46 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/invoices/views/home.php
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:46 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:46 --> Total execution time: 0.0122
+DEBUG - 2017-08-21 15:04:46 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:46 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:46 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:46 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:46 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:46 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:46 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:46 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:46 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:46 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:46 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:46 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:46 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:46 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:46 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:46 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:46 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:46 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:46 --> Total execution time: 0.0105
+DEBUG - 2017-08-21 15:04:47 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:47 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:47 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:47 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:47 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:47 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:47 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:47 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:47 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:47 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:47 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:47 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:04:47 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:47 --> Total execution time: 0.0114
+DEBUG - 2017-08-21 15:04:47 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:47 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Router Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Output Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Security Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Input Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:04:47 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Language Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:04:47 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:04:47 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Session Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:04:47 --> Session routines successfully run
+DEBUG - 2017-08-21 15:04:47 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:04:47 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:04:47 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:04:47 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:04:47 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:04:47 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:04:47 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:04:47 --> Model Class Initialized
+DEBUG - 2017-08-21 15:04:47 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:47 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:04:47 --> XSS Filtering completed
+ERROR - 2017-08-21 15:04:47 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:04:47 --> Final output sent to browser
+DEBUG - 2017-08-21 15:04:47 --> Total execution time: 0.0089
+DEBUG - 2017-08-21 15:04:58 --> Config Class Initialized
+DEBUG - 2017-08-21 15:04:58 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:04:58 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:04:58 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:04:58 --> URI Class Initialized
+DEBUG - 2017-08-21 15:04:58 --> Router Class Initialized
+ERROR - 2017-08-21 15:04:58 --> 404 Page Not Found --> usersPermissions/home
+DEBUG - 2017-08-21 15:05:00 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:05:00 --> URI Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Router Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Output Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Security Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Input Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:05:00 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:05:00 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:05:00 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Session Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:05:00 --> Session routines successfully run
+DEBUG - 2017-08-21 15:05:00 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:05:00 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:05:00 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:00 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:05:00 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:05:00 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:05:00 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:05:00 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:05:00 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:05:00 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:00 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:05:00 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:05:00 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:05:00 --> XSS Filtering completed
+ERROR - 2017-08-21 15:05:00 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:05:00 --> Final output sent to browser
+DEBUG - 2017-08-21 15:05:00 --> Total execution time: 0.0071
+DEBUG - 2017-08-21 15:05:01 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:05:01 --> URI Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Router Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Output Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Security Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Input Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:05:01 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:05:01 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:05:01 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Session Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:05:01 --> Session routines successfully run
+DEBUG - 2017-08-21 15:05:01 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:05:01 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:05:01 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:05:01 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:05:01 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:05:01 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:05:01 --> Final output sent to browser
+DEBUG - 2017-08-21 15:05:01 --> Total execution time: 0.0131
+DEBUG - 2017-08-21 15:05:01 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:05:01 --> URI Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Router Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Output Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Security Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Input Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:05:01 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:05:01 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:05:01 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Session Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:05:01 --> Session routines successfully run
+DEBUG - 2017-08-21 15:05:01 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:05:01 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:05:01 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:05:01 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:05:01 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:05:01 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:01 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:05:01 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:01 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:05:01 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:05:01 --> XSS Filtering completed
+ERROR - 2017-08-21 15:05:01 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:05:01 --> Final output sent to browser
+DEBUG - 2017-08-21 15:05:01 --> Total execution time: 0.0078
+DEBUG - 2017-08-21 15:05:10 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:05:10 --> URI Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Router Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Output Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Security Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Input Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:05:10 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Language Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Config Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:05:10 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:05:10 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Session Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:05:10 --> Session routines successfully run
+DEBUG - 2017-08-21 15:05:10 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:05:10 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:05:10 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:10 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:05:10 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:05:10 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:05:10 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:05:10 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:05:10 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:05:10 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:05:10 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:05:10 --> Model Class Initialized
+DEBUG - 2017-08-21 15:05:10 --> Final output sent to browser
+DEBUG - 2017-08-21 15:05:10 --> Total execution time: 0.0104
+DEBUG - 2017-08-21 15:13:29 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:13:29 --> URI Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Router Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Output Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Security Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Input Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:13:29 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:13:29 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:13:29 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Session Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:13:29 --> Session routines successfully run
+DEBUG - 2017-08-21 15:13:29 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:13:29 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:13:29 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:29 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:13:29 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:13:29 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:13:29 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:13:29 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:13:29 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:13:29 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:13:29 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/views/header.php
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/views/headBar.php
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/views/navigationBarMain.php
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/views/footBar.php
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/users/views/home.php
+DEBUG - 2017-08-21 15:13:29 --> File loaded: application/modules/common/views/footer.php
+DEBUG - 2017-08-21 15:13:29 --> Final output sent to browser
+DEBUG - 2017-08-21 15:13:29 --> Total execution time: 0.0153
+DEBUG - 2017-08-21 15:13:30 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:13:30 --> URI Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Router Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Output Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Security Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Input Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:13:30 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:13:30 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:13:30 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Session Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:13:30 --> Session routines successfully run
+DEBUG - 2017-08-21 15:13:30 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:13:30 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:13:30 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:13:30 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:13:30 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:13:30 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:13:30 --> XSS Filtering completed
+DEBUG - 2017-08-21 15:13:30 --> XSS Filtering completed
+ERROR - 2017-08-21 15:13:30 --> ["1","Sampath Milinda","","","","0","<a data-record_id=1 class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'><\/i><\/a>&nbsp;&nbsp;<a data-toggle='modal' data-record_id=1 data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'><\/i><\/a>"]
+DEBUG - 2017-08-21 15:13:30 --> Final output sent to browser
+DEBUG - 2017-08-21 15:13:30 --> Total execution time: 0.0078
+DEBUG - 2017-08-21 15:13:30 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:13:30 --> URI Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Router Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Output Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Security Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Input Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:13:30 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:13:30 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:13:30 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Session Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:13:30 --> Session routines successfully run
+DEBUG - 2017-08-21 15:13:30 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:13:30 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:13:30 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Invoices MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/invoices/models/mdl_invoices.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:13:30 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:13:30 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:13:30 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:30 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:13:30 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:30 --> Final output sent to browser
+DEBUG - 2017-08-21 15:13:30 --> Total execution time: 0.0102
+DEBUG - 2017-08-21 15:13:34 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Hooks Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Utf8 Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> UTF-8 Support Enabled
+DEBUG - 2017-08-21 15:13:34 --> URI Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Router Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Output Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Security Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Input Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-08-21 15:13:34 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Language Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Config Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Loader Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Config file loaded: application/config/gearman.php
+DEBUG - 2017-08-21 15:13:34 --> Helper loaded: url_helper
+DEBUG - 2017-08-21 15:13:34 --> Database Driver Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Session Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Helper loaded: string_helper
+DEBUG - 2017-08-21 15:13:34 --> Session routines successfully run
+DEBUG - 2017-08-21 15:13:34 --> Config file loaded: application/config/cimongo.php
+ERROR - 2017-08-21 15:13:34 --> The Gearman Extension must be loaded to use Gearman client.
+DEBUG - 2017-08-21 15:13:34 --> Controller Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> Users MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:34 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/modules/users/models/mdl_users.php
+DEBUG - 2017-08-21 15:13:34 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/controllers/../modules/common/controllers/common.php
+DEBUG - 2017-08-21 15:13:34 --> Common MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/modules/common/models/mdl_common.php
+DEBUG - 2017-08-21 15:13:34 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2017-08-21 15:13:34 --> User MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/modules/user/models/mdl_user.php
+DEBUG - 2017-08-21 15:13:34 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/controllers/../modules/auth/controllers/auth.php
+DEBUG - 2017-08-21 15:13:34 --> Auth MX_Controller Initialized
+DEBUG - 2017-08-21 15:13:34 --> File loaded: application/modules/auth/models/mdl_auth.php
+DEBUG - 2017-08-21 15:13:34 --> Model Class Initialized
+DEBUG - 2017-08-21 15:13:34 --> DB Transaction Failure
+ERROR - 2017-08-21 15:13:34 --> Query error: Unknown column 'fullname' in 'field list'
+DEBUG - 2017-08-21 15:13:34 --> Language file loaded: language/english/db_lang.php
