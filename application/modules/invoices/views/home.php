@@ -9,7 +9,7 @@
       <section class="content-header">
         <h1>
           Payment Tracker
-          <small>Table view</small>
+          <small>Payment Details of</small>
         </h1>
         <ol class="breadcrumb">
           <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -32,7 +32,9 @@
                     <table class="table table-striped table-bordered table-hover" id="dataTables-example">
                         <thead>
                             <tr>
+                                <!-- <th style="display: none">ID</th> -->
                                 <th>ID</th>
+                                <th>User</th>
                                 <th>Invoice Number</th>
                                 <th>Date</th>
                                 <th>Invoice Amount</th>
@@ -45,7 +47,7 @@
                                 <th>Actions</th>
                             </tr>
                         </thead>
-                       
+                        
                     </table>
                     </div></div>
                 </div>
@@ -85,7 +87,7 @@
                       <select class="form-control" name="user" id="user">
                         <?php foreach (modules::run('user/getUsers') as $value): ?>
                           
-                        <option value="1"><?php echo ($value['fullname']); ?></option>
+                        <option value="<?php echo $value['id']; ?>"><?php echo ($value['fullname']); ?></option>
                         <?php endforeach ?>
                       </select>
                     </div>
@@ -204,6 +206,17 @@
         <div class="row">
             <div class="col-md-12">
                   <input type="hidden" name="idE" id="idE" />
+                   <div class="form-group">
+                    <label for="user" class="col-sm-4 control-label">User</label>
+                    <div class="col-sm-8">
+                      <select class="form-control" name="user" id="user">
+                        <?php foreach (modules::run('user/getUsers') as $value): ?>
+                          
+                        <option value="<?php echo $value['id']; ?>"><?php echo ($value['fullname']); ?></option>
+                        <?php endforeach ?>
+                      </select>
+                    </div>
+                  </div>
                   <div class="form-group">
                     <label for="invoice_noE" class="col-sm-4 control-label">Invoice Number</label>
                     <div class="col-sm-8">
@@ -318,35 +331,63 @@
 </div>
 
     <script>
-    var sort = 9;
+    var filter = "";
     var record_id = 1;
     var record_to_edit = 0;
     var htmlOut = '';
     var soft_file_id = '';
     var soft_file_path = '';
     $(document).ready(function() {
-        var table = $('#dataTables-example').DataTable({
-                          "processing": true,
-                          "serverSide": true,
-                          "ajax": "/invoices/getInvoices/"+sort,
-                          "paging":         true,
-                          "order": [[ 1, "desc" ]],
-                          "aoColumns": [
-                                      { "sWidth": "0%" },
-                                      { "sWidth": "1%" },
-                                      { "sWidth": "5%" },
-                                      { "sWidth": "7%" },
-                                      { "sWidth": "28%" },
-                                      { "sWidth": "25%" },
-                                      { "sWidth": "10%" },
-                                      { "sWidth": "10%" },
-                                      { "sWidth": "4%" },
-                                      { "sWidth": "4%" },
-                                      { "sWidth": "2%" }
-                                      ],
-                          
-                  });
 
+        function createDataTable(filter){
+
+          var table = $('#dataTables-example').DataTable({
+                            "dom" : 'l<"#add">frtip',
+                            "processing": true,
+                            "serverSide": true,
+                            "ajax": "/invoices/getInvoices/?params="+filter,
+                            // "ajax": {
+                            //     "url": "/invoices/getInvoices/"+filter,
+                            //     "type": "POST"
+                            // },
+                            "paging":         true,
+                            "order": [[ 1, "desc" ]],
+                            "aoColumns": [
+                                        { "sWidth": "0%" ,"visible": false},
+                                        { "sWidth": "0%" ,"visible": false},
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" },
+                                        { "sWidth": "5%" }
+                                        ],
+                            
+                    });
+
+          $('<label style="font-weight:normal;margin-left:100px;" />').text('User').appendTo('#add')
+          $select = $('<select class="form-control userSelect" style="margin-top:-5px;margin-left:10px;" />').appendTo('#add');
+              $('<option/>').val('0').text('SELECT').appendTo($select);
+          <?php foreach (modules::run('user/getUsers') as $value): ?>
+              $('<option/>').val('<?php echo ($value['id']); ?>').text('<?php echo ($value['fullname']); ?>').appendTo($select);
+          <?php endforeach ?>
+
+        }
+
+        createDataTable(filter);
+
+        
+        $(document).on('change', '.userSelect', function(){
+          console.log($(this).val());
+          var obj= {"user":this.value}
+          f = JSON.stringify(obj);
+          $('#dataTables-example').DataTable().destroy();
+          createDataTable(encodeURIComponent(f));
+        });
       
         $('#date').datetimepicker({
           format: 'L'

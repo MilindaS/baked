@@ -1,13 +1,9 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Mdl_invoices extends CI_Model {
-
-	// $this->loggedinuser = null;
+class Mdl_reports extends CI_Model {
 
 	function __construct(){
 		parent::__construct();
-		$this->loggedinuser=$this->session->userdata ( 'logged_in');
-		// $user_details = Modules::run('user/getUser',$loggedinuser['id']);
 	}
 
 	public function getMonthlyReportNames(){
@@ -38,83 +34,102 @@ class Mdl_invoices extends CI_Model {
 		return $query->result_array();
 	}
 
-	public function addInvoice($data){
+	public function addReport($data){
+		$reportType = $data['reportType'];
+		$refNo = $data['refNo'];
+		$contactName = $data['contactName'];
+		$contactNo = $data['contactNo'];
+		$compName = $data['compName'];
+		$priority = $data['priority'];
+		$reportUnderTaken = $data['reportUnderTaken'];
 
-		$invoice_no = $data['invoice_no'];
-		$date = date('Y-m-d',strtotime($data['date']));
-		$invoice_amount = $data['invoice_amount'];
-		$paid_amount = $data['paid_amount'];
-		$payment_details = $data['payment_details'];
-		$payment_date = date('Y-m-d',strtotime($data['payment_date']));
-		$user = $data['user'];
-		$payment_type = $data['payment_type'];
-		$pending_amount = $data['pending_amount'];
-		$remarks = $data['remarks'];
-		$userArr = $this->loggedinuser;
-		$updated_by = $userArr['id'];
 
-		if($data['id']!=null){
-			$sql = "UPDATE invoices set 
-						user = ?,
-						invoice_no = ? ,
-						date = ? ,
-						invoice_amount = ? ,
-						paid_amount = ? ,
-						payment_details = ? ,
-						payment_date = ? ,
-						payment_type = ? ,
-						pending_amount = ? ,
-						remarks = ? ,
-						updated_by = ? 
-						WHERE id =?";
-			$params = array(
-							$user,
-							$invoice_no,
-							$date,
-							$invoice_amount,
-							$paid_amount,
-							$payment_details,
-							$payment_date,
-							$payment_type,
-							$pending_amount,
-							$remarks,
-							$updated_by,
-							$data['id']
-							);
+
+		$sql = "SELECT * FROM report where ref_no=?";
+		$params = array($refNo);
+		$query = $this->db->query($sql,$params);
+		$nr = $query->num_rows();
+
+
+		if($reportType==0){
+			$recvDate = date('Y-m-d',strtotime($data['recvDate']));
+			
+			$reportName = $data['reportName'];
+			$entityType = $data['entityType'];
+
+			$sqlconsCheck = "SELECT * FROM consignee where consignee_name=?";
+			$params = array($compName);
+			$query = $this->db->query($sqlconsCheck,$params);
+			$nr_cons = $query->num_rows();
+			if($nr_cons==0){
+				$sql = "INSERT INTO consignee (tin_no,consignee_name) VALUES(?,?)";
+				$params = array(microtime(true),$compName);
+				$query = $this->db->query($sql,$params);
+			}
+
+			$sql = "INSERT INTO report (ref_no,recv_date,comp_name,report_name,contact_name,contact_no,entity_type,priority,report_at) VALUES( ?,?,?,?,?,?,?,?,?)";
+			$params = array($refNo,$recvDate,$compName,$reportName,$contactName,$contactNo,$entityType,$priority,$reportUnderTaken);
+
+		}elseif($reportType==1){
+
+			$repMonName = $data['repMonName'];
+			$effMonth = $data['effMonth'];
+			$year = date('Y',strtotime($data['effMonth']));
+			$month = date('m',strtotime($data['effMonth']));
+
+
+			$sqlconsCheck = "SELECT * FROM monthly_report_names where report_name=?";
+			$params = array($repMonName);
+			$query = $this->db->query($sqlconsCheck,$params);
+			$nr_cons = $query->num_rows();
+			if($nr_cons==0){
+				$sql = "INSERT INTO monthly_report_names (report_name) VALUES(?)";
+				$params = array($repMonName);
+				$query = $this->db->query($sql,$params);
+			}
+
+
+			$sql = "INSERT INTO report (ref_no,comp_name, recv_date,report_name,contact_name,contact_no,report_type,priority,report_at,year,month) VALUES(?,?,?,?,?,?,?,?,?,?,?)";
+			$params = array($refNo,$compName,date('Y-m-d'),$repMonName,$contactName,$contactNo,$reportType,$priority,$reportUnderTaken,$year,$month);
+
+		}elseif($reportType==2){
+			$repMonName = $data['repMonName'];
+			$fromDate = date('Y-m-d',strtotime($data['fromDate']));
+			$toDate = date('Y-m-d',strtotime($data['toDate']));
+			// $week = $data['effWeek'];
+			//$year = date('Y',strtotime($data['effMonth']));
+			//$month = date('m',strtotime($data['effMonth']));
+
+			$sqlconsCheck = "SELECT * FROM weekly_report_names where report_name=?";
+			$params = array($repMonName);
+			$query = $this->db->query($sqlconsCheck,$params);
+			$nr_cons = $query->num_rows();
+			if($nr_cons==0){
+				$sql = "INSERT INTO weekly_report_names (report_name) VALUES(?)";
+				$params = array($repMonName);
+				$query = $this->db->query($sql,$params);
+			}
+
+			$sql = "INSERT INTO report (ref_no,comp_name,recv_date,report_name,contact_name,contact_no,report_type,priority,report_at,week_start_on,week_ends_on) VALUES(?,?,?,?,?,?,?,?,?,?,?)";
+			$params = array($refNo,$compName,date('Y-m-d'),$repMonName,$contactName,$contactNo,$reportType,$priority,$reportUnderTaken,$fromDate,$toDate);
+		}
+
+		
+		
+
+
+		
+		
+
+		if($nr>0){
+			return 0;
 		}else{
 			
-			$sql = "INSERT INTO invoices (	
-											user,
-											invoice_no,
-											date,
-											invoice_amount,
-											paid_amount,
-											payment_details,
-											payment_date,
-											payment_type,
-											pending_amount,
-											remarks,
-											updated_by) 
-								VALUES(?,?,?,?,?,?,?,?,?,?,?)";
-			$params = array(
-							$user,
-							$invoice_no,
-							$date,
-							$invoice_amount,
-							$paid_amount,
-							$payment_details,
-							$payment_date,
-							$payment_type,
-							$pending_amount,
-							$remarks,
-							$updated_by
-							);
+			$query = $this->db->query($sql,$params);
+			$post_id = $this->db->insert_id();
 
+			return $post_id;	
 		}
-		$query = $this->db->query($sql,$params);
-		$post_id = $this->db->insert_id();
-
-		return $post_id;	
 	}
 
 	public function checkValidRefNo($id){
@@ -136,7 +151,7 @@ class Mdl_invoices extends CI_Model {
 		$params = array($compName);
 		$query = $this->db->query($sql,$params);
 		$nr = $query->num_rows();
-		// log_message('error',$nr);
+		log_message('error',$nr);
 		if($nr>0){
 			return 1;
 		}else{
@@ -146,7 +161,7 @@ class Mdl_invoices extends CI_Model {
 
 	public function loadFiles($id){
 		// log_message('error',json_encode($id));
-		$sql = "SELECT * FROM report_soft_files inner join report on (report_soft_files.report_id = report.id) where report_id=?";
+		$sql = "SELECT *,report_soft_files.id as report_soft_id FROM report_soft_files inner join report on (report_soft_files.report_id = report.id) where report_id=?";
 		$params = array($id);
 		$query = $this->db->query($sql,$params);
 		return $query->result_array();
@@ -240,7 +255,7 @@ class Mdl_invoices extends CI_Model {
  //                                        'reportUnderTaken'=>$this->input->post('reportUnderTakenE'),
  //                                        'repStatus'=>$this->input->post('repStatus')
  //                                        );
- //                $this->mdl_invoices->editReport($data);
+ //                $this->mdl_reports->editReport($data);
 
  //                $action = $this->common->getUserActions(2);
  //                $this->common->logRec($action[0]['action_name'],$this->input->post('refIdE'));
@@ -285,7 +300,7 @@ class Mdl_invoices extends CI_Model {
 			}
 		}
 
-		// log_message('error',json_encode($data));
+		log_message('error',json_encode($data));
 
 		if($reportType==0){
 			$recvDate = date('Y-m-d',strtotime($data['recvDate']));
@@ -343,7 +358,7 @@ class Mdl_invoices extends CI_Model {
 	}
 
 	public function loadRecord($id){
-		$sql = "SELECT * FROM invoices where id=?";
+		$sql = "SELECT * FROM report where id=?";
 		$params = array($id);
 		$query = $this->db->query($sql,$params);
 		return $query->result_array();
@@ -381,26 +396,21 @@ class Mdl_invoices extends CI_Model {
 		$query = $this->db->query($sql,$params);
 	}
 
-	public function getInvoices($filter){
+	public function getReports($sortGET){
 
 
-		// $keyvalarr = explode(':', $filter);
-		$tparams = json_decode($filter['params'],true);
-		// log_message('ERROR',$tparams['name']);
-		// exit();
 		$aColumns = array(
-			'id',
-            'user',
-            'invoice_no',
-            'date',
-            'invoice_amount',
-            'paid_amount',
-            'payment_details',
-            'payment_date',
-            'payment_type',
-            'pending_amount',
-            'remarks',
-            'updated_by'
+            'id',
+            'ref_no',
+            'recv_date',
+            'comp_name',
+            'report_name',
+            'contact_name',
+            'report_at',
+            'priority',
+            'status',
+            'complt_date',
+            'added_by'
             );
  
         /* Indexed column (used for fast and accurate table cardinality) */
@@ -408,7 +418,7 @@ class Mdl_invoices extends CI_Model {
  
         /* Total data set length */
         $sQuery = "SELECT COUNT('" . $sIndexColumn . "') AS row_count
-            FROM invoices";
+            FROM report";
         $rResultTotal = $this->db->query($sQuery);
         $aResultTotal = $rResultTotal->row();
         $iTotal = $aResultTotal->row_count;
@@ -493,31 +503,29 @@ class Mdl_invoices extends CI_Model {
             }
         }
  		
- 		// $sWhere .= " AND is_deleted = 0";
-        if($sWhere !=""){
- 			if(($filter["params"]!="")){
-	 			$sWhere .= " AND user = ".$tparams['user'];
-	 		}
+ 		if($sWhere !=""){
+ 			$sWhere .= " AND is_deleted = 0";
  		}else{
- 			// $sWhere .= " WHERE is_deleted = 0";
- 			if(($filter["params"]!="")){
-	 			$sWhere .= " WHERE user = ".$tparams['user'];
-	 		}
+ 			$sWhere .= " WHERE is_deleted = 0";
  		}
 
+ 		if($sortGET ==0){
+ 			$sWhere .= " AND status = 0";
+ 		}elseif($sortGET ==1){
+ 			$sWhere .= " AND status = 1";
+ 		}elseif($sortGET ==2){
+ 			$sWhere .= " AND status = 2";
+ 		}
 
+ 		// $sWhere .= " AND is_deleted = 0";
 
- 		// if(($filter["params"]!="")){
- 		// 	$sWhere .= " AND user = 1";
- 		// }
- 	
- 		// log_message('ERROR',json_encode($sWhere));
+ 
         /*
          * SQL queries
          * Get data to display
          */
         $sQuery = "SELECT SQL_CALC_FOUND_ROWS " . str_replace(" , ", " ", implode(", ", $aColumns)) . "
-        FROM invoices
+        FROM report
         $sWhere
         $sOrder
         $sLimit
@@ -544,37 +552,74 @@ class Mdl_invoices extends CI_Model {
         foreach ($rResult->result_array() as $aRow) {
             $row = array();
             foreach ($aColumns as $col) {
-            	// $row[] = $aRow[$col];
-            	if($col=='user'){
-            		$xusder = Modules::run("user/getUser",$aRow[$col]);
-
-            		// log_message('ERROR',json_encode($aRow[$col]));
-            		// exit();
-                	// $aRow[$col] = 	$xusder[0]['fullname'];
-                	$aRow[$col] = 	"user-".$aRow[$col];
+            	if($col=='report_at'){
+        			if($aRow[$col]==0){
+        				$aRow[$col] ='None';
+        			}else{
+        				$user = Modules::run('user/getUser',$aRow[$col]);
+        				$aRow[$col] = "<a href='/user/profile/".$user[0]['id']."' style='text-decoration:none;'>";
+        				if($user[0]['file_link']!=null){
+        					$aRow[$col] .= "<img src='".$user[0]['file_link']."'  alt='' class='prof-pic-dash'>";
+        				}else{
+        					$aRow[$col] .= "<img src='".base_url()."public/images/profile_user.png' alt='' class='prof-pic-dash'>";
+        				}
+        				$aRow[$col] .= "<b>".$user[0]['username']."</b></a>";
+        				    
+        			}
+                }
+                if($col=='priority'){
+                	if($aRow[$col]==1){
+                		$aRow[$col] = "<i class='glyphicon glyphicon-fire' style='color:#D95100;'></i>&nbsp;&nbsp;High";
+                	}else{
+                		$aRow[$col] = "<i class='glyphicon glyphicon-tint' style='color:#448AC8;'></i>&nbsp;&nbsp;Low";
+                	}
                 }
 
-                if($col=='updated_by'){
+                 if($col=='status'){
+                	if($aRow[$col]==0){
+                		$aRow[$col] = "Pending";
+                	}elseif($aRow[$col]==1){
+                		$aRow[$col] = "Completed";
+                	}elseif($aRow[$col]==2){
+                		$aRow[$col] = '<i class="glyphicon glyphicon-ok-sign" style="color:#709E00;"></i>&nbsp;&nbsp;Issued';
+                	}
+                }
+
+                if($col=='complt_date'){
+                	$report_requests = $this->loadFilesR($aRow['id']);
+                	$aRow[$col] = '&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-pdf-o" data-toggle="tooltip" title="" data-original-title="Request" style="'.(count($report_requests) >0 ? "color:#0F95E8;":"color:#AAA;").'font-size:17px;"></i>';
+                	$report_ups = $this->loadFiles($aRow['id']);
+                	$recx = $this->loadRecord($aRow['id']);
+                		$report_format = $recx[0]['report_format'];
+                	$aRow[$col] .= '&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-excel-o" data-toggle="tooltip" title="" data-original-title="Excel" style="'.((count($report_ups) >0 || $report_format==1) ? "color:#709E00;":"color:#AAA;").'font-size:17px;"></i>';
+                }
+
+                if($col=='added_by'){
+                	
                 	$aRow[$col] = 	"<a data-record_id=".$aRow['id']." class='btn btn-xs btn-primary pt-opt-edit'><i class='fa fa-pencil-square-o'></i></a>";
-                	$aRow[$col] .= 	"&nbsp;&nbsp;<a data-toggle='modal' data-record_id=".$aRow['id']." data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'></i></a>";	
+                    $aRow[$col] .= 	"&nbsp;&nbsp;<a data-toggle='modal' data-record_id=".$aRow['id']." data-target='#deleteRecordModal' class='js-delete-record btn btn-xs btn-danger'><i class='fa fa-trash'></i></a>";
+                                              
                 }
-                $row[] = $aRow[$col];
+
+            	$row[] = $aRow[$col];
+                
             }
-                // log_message('ERROR',json_encode($row));
             $output['data'][] = $row;
         }
  
         return $output;
 
 
-	}	
 
-	public function getNextRefNo(){
-    	$sql = "SELECT MAX(invoice_no) AS MRF FROM invoices";
-		$params = array();
-		$query = $this->db->query($sql,$params);
-		return $query->result_array();
-    }
+
+
+
+
+		// $sql = "SELECT * FROM report WHERE is_deleted=?";
+		// $params = array(0);
+		// $query = $this->db->query($sql,$params);
+		// return $query->result_array();
+	}	
 
 	public function getDeletedReports(){
 		$sql = "SELECT * FROM report WHERE is_deleted=?";
@@ -598,9 +643,9 @@ class Mdl_invoices extends CI_Model {
 		return true;
 	}
 
-	public function deleteInvoice($data){
-		$sql = "DELETE from invoices WHERE id=?";
-		$params = array($data['id']);
+	public function deleteReport($data){
+		$sql = "UPDATE report SET is_deleted = ? WHERE id=?";
+		$params = array(1,$data['id']);
 		$query = $this->db->query($sql,$params);
 		return true;
 	}

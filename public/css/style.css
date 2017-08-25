@@ -1244,3 +1244,16 @@ h1,.panel-heading,.dataTables_length{
 .navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
     color: #111;
 }
+
+#add {
+  display: inline-block;
+  padding-left: 30px;
+  float: left;
+}
+div.dataTables_filter label {
+  float:right !important;
+}
+
+div.dataTables_length label {
+  float:left !important;
+}

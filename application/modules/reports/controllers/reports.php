@@ -1,10 +1,10 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Invoices extends MX_Controller {
+class Reports extends MX_Controller {
 
 	function __construct(){
 		parent::__construct();
-		$this->load->model('mdl_invoices');
+		$this->load->model('mdl_reports');
 		$this->load->module('common');
 		$this->load->module('user');
 		$this->load->module('auth');
@@ -19,58 +19,54 @@ class Invoices extends MX_Controller {
 		$css_array = array('dropzone.css','../vendor/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css','bootstrap-datetimepicker.min.css');
 		$js_array = array('../vendor/typeahead.js/dist/typeahead.bundle.min.js','dropzone.js','moment.min.js','bootstrap-datetimepicker.min.js','validator.min.js');
 		$this->common->header($css_array,$js_array);
-		// $data['reports'] = $this->mdl_invoices->getReports();
+		// $data['reports'] = $this->mdl_reports->getReports();
 		$data['users'] = $this->user->getUsers();
 		$this->load->view('home',$data);
 		$this->common->footer();
 	}
 
-	function getNextRefNo(){
-		$max_row = $this->mdl_invoices->getNextRefNo();
-		echo json_encode($max_row[0]['MRF']+1);
-	}
 
 	function reports_mon(){	
 		$css_array = array('mcalendar.css','bootstrap.vertical-tabs.min.css','fullcalendar.css');
 		$js_array = array('moment.min.js','fullcalendar.js');
 		$this->common->header($css_array,$js_array);
-		// $data['reports'] = $this->mdl_invoices->getReports();
+		// $data['reports'] = $this->mdl_reports->getReports();
 		$data['users'] = $this->user->getUsers();
 		$this->load->view('reports_mon',$data);
 		$this->common->footer();
 	}
 
 	function getMonthlyReportsByName(){
-		echo json_encode($this->mdl_invoices->getMonthlyReportsByName($this->input->post('report_name')));
+		echo json_encode($this->mdl_reports->getMonthlyReportsByName($this->input->post('report_name')));
 	}
 
-	function getInvoices(){
-		echo json_encode($this->mdl_invoices->getInvoices($this->input->get()));
+	function getReports($sort){
+		echo json_encode($this->mdl_reports->getReports($sort));
 	}
 
 	function getMonthlyReportNames(){
-		return $this->mdl_invoices->getMonthlyReportNames();
+		return $this->mdl_reports->getMonthlyReportNames();
 	}
 
 	function getMonthlyReports(){
-		return $this->mdl_invoices->getMonthlyReports();
+		return $this->mdl_reports->getMonthlyReports();
 	}
 
 	function getWeeklyReports(){
-		return $this->mdl_invoices->getWeeklyReports();
+		return $this->mdl_reports->getWeeklyReports();
 	}
 	public function deleted(){
 		$this->auth->isAuthorized();
 		$css_array = array('dropzone.css','../vendor/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css','bootstrap-datetimepicker.min.css');
 		$js_array = array('../vendor/typeahead.js/dist/typeahead.bundle.min.js','dropzone.js','../vendor/datatables/media/js/jquery.dataTables.min.js','../vendor/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js','moment.min.js','bootstrap-datetimepicker.min.js','validator.min.js');
 		$this->common->header($css_array,$js_array);
-		$data['dreports'] = $this->mdl_invoices->getDeletedReports();
+		$data['dreports'] = $this->mdl_reports->getDeletedReports();
 		$this->load->view('dreports',$data);
 		$this->common->footer();
 	}
 
 	public function checkNDA(){
-		$post_id = $this->mdl_invoices->checkNDA($this->input->get('compName'));
+		$post_id = $this->mdl_reports->checkNDA($this->input->get('compName'));
 		if($post_id){
 			http_response_code(400);
 		}else{
@@ -78,45 +74,59 @@ class Invoices extends MX_Controller {
 		}
 	}
 
-	public function addInvoice(){
-		if($this->input->post('idE')){
+	public function addReport(){
+		if($this->input->post('reportType')==0){
 			$data = array(
-			'id'=>$this->input->post('idE'),
-			'user'=>$this->input->post('userE'),
-			'invoice_no'=>$this->input->post('invoice_noE'),
-			'date'=>$this->input->post('dateE'),
-			'invoice_amount'=>$this->input->post('invoice_amountE'),
-			'paid_amount'=>$this->input->post('paid_amountE'),
-			'payment_details'=>$this->input->post('payment_detailsE'),
-			'payment_date'=>$this->input->post('payment_dateE'),
-			'payment_type'=>$this->input->post('payment_typeE'),
-			'pending_amount'=>$this->input->post('pending_amountE'),
-			'remarks'=>$this->input->post('remarksE')
-			);
-		}else{
+				'reportType'=>$this->input->post('reportType'),
+				'refNo'=>$this->input->post('refNo'),
+				'recvDate'=>$this->input->post('recvDate'),
+				'compName'=>$this->input->post('compName'),
+				'reportName'=>$this->input->post('reportName'),
+				'contactName'=>$this->input->post('contactName'),
+				'priority'=>$this->input->post('priority'),
+				'entityType'=>$this->input->post('entityType'),
+				'reportUnderTaken'=>$this->input->post('reportUnderTaken'),
+				'contactNo'=>$this->input->post('contactNo')
+				);
+		}elseif($this->input->post('reportType')==1){
 			$data = array(
-			'id'=>null,
-			'user'=>$this->input->post('user'),
-			'invoice_no'=>$this->input->post('invoice_no'),
-			'date'=>$this->input->post('date'),
-			'invoice_amount'=>$this->input->post('invoice_amount'),
-			'paid_amount'=>$this->input->post('paid_amount'),
-			'payment_details'=>$this->input->post('payment_details'),
-			'payment_date'=>$this->input->post('payment_date'),
-			'payment_type'=>$this->input->post('payment_type'),
-			'pending_amount'=>$this->input->post('pending_amount'),
-			'remarks'=>$this->input->post('remarks')
-			);
+				'reportType'=>$this->input->post('reportType'),
+				'refNo'=>$this->input->post('refNo'),
+				'repMonName'=>$this->input->post('repMonName'),
+				'compName'=>$this->input->post('compName'),
+				'contactName'=>$this->input->post('contactName'),
+				'effMonth'=>$this->input->post('effMonth'),
+				'priority'=>$this->input->post('priority'),
+				'reportUnderTaken'=>$this->input->post('reportUnderTaken'),
+				'contactName'=>$this->input->post('contactName'),
+				'contactNo'=>$this->input->post('contactNo')
+				);
+		}elseif($this->input->post('reportType')==2){
+			$data = array(
+				'reportType'=>$this->input->post('reportType'),
+				'refNo'=>$this->input->post('refNo'),
+				'repMonName'=>$this->input->post('repMonName'),
+				'contactName'=>$this->input->post('contactName'),
+				'compName'=>$this->input->post('compName'),
+				'fromDate'=>$this->input->post('fromDate'),
+				'toDate'=>$this->input->post('toDate'),
+				'priority'=>$this->input->post('priority'),
+				'reportUnderTaken'=>$this->input->post('reportUnderTaken'),
+				'contactName'=>$this->input->post('contactName'),
+				'contactNo'=>$this->input->post('contactNo')
+				);
 		}
 		
-		$post_id = $this->mdl_invoices->addInvoice($data);
+
+
+		$post_id = $this->mdl_reports->addReport($data);
 		$action = $this->common->getUserActions(1);
 		$this->common->logRec($action[0]['action_name'],$post_id);
 		echo 1;
 	}
 
 	public function checkValidRefNo(){
-		$post_id = $this->mdl_invoices->checkValidRefNo($this->input->get('refNo'));
+		$post_id = $this->mdl_reports->checkValidRefNo($this->input->get('refNo'));
 		if($post_id){
 			http_response_code(400);
 		}else{
@@ -127,22 +137,22 @@ class Invoices extends MX_Controller {
 	
 
 	function searchMonthlyRepName(){
-		$result = $this->mdl_invoices->searchMonthlyRepName($this->input->post('monRepName'),$this->input->post('reportTypeX'));
+		$result = $this->mdl_reports->searchMonthlyRepName($this->input->post('monRepName'),$this->input->post('reportTypeX'));
 		echo json_encode($result);
 	}
 
 	function searchConsignee(){
-		$result = $this->mdl_invoices->searchConsignee($this->input->post('compNameE'));
+		$result = $this->mdl_reports->searchConsignee($this->input->post('compNameE'));
 		echo json_encode($result);
 	}
 
 	function searchConsigneeNameOrTin(){
-		$result = $this->mdl_invoices->searchConsigneeNameOrTin($this->input->post('compNameE'));
+		$result = $this->mdl_reports->searchConsigneeNameOrTin($this->input->post('compNameE'));
 		echo json_encode($result);
 	}
 
 	function searchConsigneeTin(){
-		$result = $this->mdl_invoices->searchConsigneeTin($this->input->post('compNameE'));
+		$result = $this->mdl_reports->searchConsigneeTin($this->input->post('compNameE'));
 		echo json_encode($result);
 	}
 
@@ -162,7 +172,7 @@ class Invoices extends MX_Controller {
  //                                        'reportUnderTaken'=>$this->input->post('reportUnderTakenE'),
  //                                        'repStatus'=>$this->input->post('repStatus')
  //                                        );
- //                $this->mdl_invoices->editReport($data);
+ //                $this->mdl_reports->editReport($data);
 
  //                $action = $this->common->getUserActions(2);
  //                $this->common->logRec($action[0]['action_name'],$this->input->post('refIdE'));
@@ -170,7 +180,7 @@ class Invoices extends MX_Controller {
  //        }
 
 	public function updateReportToCusdecFormat(){
-		$this->mdl_invoices->updateReportToCusdecFormat($this->input->post());
+		$this->mdl_reports->updateReportToCusdecFormat($this->input->post());
 	}
 
 	public function editReport(){
@@ -231,7 +241,7 @@ class Invoices extends MX_Controller {
 				'repStatus'=>$this->input->post('repStatus')
 				);
 		}
-		$this->mdl_invoices->editReport($data);
+		$this->mdl_reports->editReport($data);
 
 		$action = $this->common->getUserActions(2);
 		$this->common->logRec($action[0]['action_name'],$this->input->post('refIdE'));
@@ -251,7 +261,7 @@ class Invoices extends MX_Controller {
 		    $data['prevPath'] = base_url().'public'.$ds.'uploads'.$ds. $post_file_name;
 		    $data['filePath'] = $targetFile;
 		    $data['id'] = $this->input->post('record_id');
-		    $result = $this->mdl_invoices->saveUpld($data);
+		    $result = $this->mdl_reports->saveUpld($data);
 		    $action = $this->common->getUserActions(3);
 			$this->common->logRec($action[0]['action_name'],$data['id']);
 			redirect(BASEURL.'reports/home', 'refresh');
@@ -288,7 +298,7 @@ class Invoices extends MX_Controller {
 		    $data['prevPath'] = base_url().'public'.$ds.'uploads'.$ds.'requests'.$ds.$post_file_name;
 		    $data['filePath'] = $targetFile;
 		    $data['id'] = $this->input->post('record_id_r');
-		    $result = $this->mdl_invoices->saveUpldR($data);
+		    $result = $this->mdl_reports->saveUpldR($data);
 		    $action = $this->common->getUserActions(3);
 			$this->common->logRec($action[0]['action_name'],$data['id']);
 			redirect(BASEURL.'reports/home', 'refresh');
@@ -313,18 +323,18 @@ class Invoices extends MX_Controller {
 	}
 
 	public function loadFiles(){
-		$result = $this->mdl_invoices->loadFiles($this->input->post('id'));
+		$result = $this->mdl_reports->loadFiles($this->input->post('id'));
 		echo json_encode($result);
 	}
 
 	public function loadFilesR(){
-		$result = $this->mdl_invoices->loadFilesR($this->input->post('id'));
+		$result = $this->mdl_reports->loadFilesR($this->input->post('id'));
 		echo json_encode($result);
 	}
 	
 	public function loadRecord(){
 		$id = $this->input->post('id');
-		$result = $this->mdl_invoices->loadRecord($id);
+		$result = $this->mdl_reports->loadRecord($id);
 		echo json_encode($result[0]);
 	}
 
@@ -335,7 +345,7 @@ class Invoices extends MX_Controller {
 		// log_message('error',$file);
 		// exit();
 		unlink($file);
-		$this->mdl_invoices->deleteFile($this->input->post('id'));
+		$this->mdl_reports->deleteFile($this->input->post('id'));
 		$return  = 	array('type'=>true,
 						'msg'=>'<i class="ion-android-warning"></i>&nbsp;&nbsp;File Removed !');
 		echo json_encode($return);
@@ -348,7 +358,7 @@ class Invoices extends MX_Controller {
 		// log_message('error',$file);
 		// exit();
 		unlink($file);
-		$this->mdl_invoices->deleteFileR($this->input->post('id'));
+		$this->mdl_reports->deleteFileR($this->input->post('id'));
 		$return  = 	array('type'=>true,
 						'msg'=>'<i class="ion-android-warning"></i>&nbsp;&nbsp;File Removed !');
 		echo json_encode($return);
@@ -357,21 +367,21 @@ class Invoices extends MX_Controller {
 
 	public function restoreReport(){
 		$data = array('id'=>$this->input->post('restore_record_id'));
-		$this->mdl_invoices->restoreReport($data);
+		$this->mdl_reports->restoreReport($data);
 		$action = $this->common->getUserActions(6);
 		$this->common->logRec($action[0]['action_name'],$this->input->post('restore_record_id'));
 	}
 
 	public function deleteReportPermanant(){
 		$data = array('id'=>$this->input->post('delete_record_id'));
-		$this->mdl_invoices->deleteReportPermanant($data);
+		$this->mdl_reports->deleteReportPermanant($data);
 		$action = $this->common->getUserActions(5);
 		$this->common->logRec($action[0]['action_name'],$this->input->post('delete_record_id'));
 	}
 
-	public function deleteInvoice(){
+	public function deleteReport(){
 		$data = array('id'=>$this->input->post('delete_record_id'));
-		$this->mdl_invoices->deleteInvoice($data);
+		$this->mdl_reports->deleteReport($data);
 		$action = $this->common->getUserActions(4);
 		$this->common->logRec($action[0]['action_name'],$this->input->post('delete_record_id'));
 	}
